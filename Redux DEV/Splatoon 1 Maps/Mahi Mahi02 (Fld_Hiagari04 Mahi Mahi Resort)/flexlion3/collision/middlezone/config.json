@@ -1,0 +1,33 @@
+{
+  "collision": {
+    "Phive/Shape/Dcc/FldObj_Hiagari04AreaFloat.Nin_NX_NVN.bphsh": {
+      "obj_path": "/MiddleHiagari.obj",
+      "materials": {
+        "COL_4007": {
+          "mat_name": "Fence",
+          "fx_preset": "Fence"
+        },
+        "COL_C5.001": {
+          "mat_name": "Asphalt"
+        },
+        "COL_C6": {
+          "mat_name": "Asphalt"
+        },
+        "COL_17": {
+          "mat_name": "Asphalt"
+        },
+        "COL_6": {
+          "mat_name": "Asphalt"
+        },
+        "COL_8.002": {
+          "mat_name": "Asphalt"
+        }
+      }
+    }
+  },
+  "map_patches": {
+    "Vss_Hiagari04": {
+      "extend_col_heap": true
+    }
+  }
+}

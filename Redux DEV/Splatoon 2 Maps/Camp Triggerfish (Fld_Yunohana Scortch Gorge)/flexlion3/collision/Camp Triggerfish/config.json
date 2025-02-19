@@ -1,0 +1,40 @@
+{
+  "collision": {
+    "Phive/Shape/Dcc/Fld_Yunohana.Nin_NX_NVN.bphsh": {
+      "obj_path": "/untitled.obj",
+      "materials": {
+        "Floor00": {
+          "mat_name": "Asphalt",
+          "mat_flags": [ "Ice", "BombCantBind" ]
+        },
+        "Paint00": {
+          "mat_name": "Asphalt",
+          "mat_flags": [ "Ice", "BombCantBind" ]
+        },
+        "Slope00": {
+          "mat_name": "Asphalt",
+          "mat_flags": [ "Ice", "BombCantBind" ]
+        },
+        "Wall00": {
+          "mat_name": "Asphalt",
+          "mat_flags": [ "Ice", "BombCantBind" ]
+        },
+        "ConcreteBlockMaterial": {
+          "fx_preset": "Water"
+        },
+        "EventAEmm": {
+          "fx_preset": "Fence"
+        },
+        "WaterTankInGlass": {
+          "fx_preset": "Fence"
+        }
+
+      }
+    }
+  },
+  "map_patches": {
+    "Vss_Yagara": {
+      "paint_workaround": true
+    }
+  }
+}

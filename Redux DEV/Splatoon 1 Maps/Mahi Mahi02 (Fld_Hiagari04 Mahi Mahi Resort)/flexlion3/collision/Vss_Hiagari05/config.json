@@ -1,0 +1,48 @@
+{
+  "collision": {
+    "Phive/Shape/Dcc/Fld_Hiagari04.Nin_NX_NVN.bphsh": {
+      "obj_path": "/Hiagari05.obj",
+      "materials": {
+        "COL_17.001": {
+          "mat_name": "Metal"
+        },
+        "COL_1A.001": {
+          "mat_name": "Metal"
+        },
+        "COL_4.001": {
+          "mat_name": "Glass"
+        },
+        "COL_400.001": {
+          "mat_name": "Asphalt"
+        },
+        "COL_4007.001": {
+          "mat_name": "Fence",
+          "fx_preset": "Fence"
+        },
+        "COL_45.001": {
+          "mat_name": "Wood"
+        },
+        "COL_48.001": {
+          "mat_name": "Carpet"
+        },
+        "COL_8.001": {
+          "mat_name": "Metal"
+        },
+        "COL_8017.001": {
+          "mat_name": "Asphalt"
+        },
+        "COL_85.001": {
+          "mat_name": "Wood"
+        },
+        "COL_88.001": {
+          "mat_name": "Carpet"
+        }
+      }
+    }
+  },
+  "map_patches": {
+    "Vss_Hiagari04": {
+      "extend_col_heap": true
+    }
+  }
+}

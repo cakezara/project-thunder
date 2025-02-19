@@ -1,0 +1,36 @@
+{
+  "collision": {
+    "Phive/Shape/Dcc/Fld_Kaisou03.Nin_NX_NVN.bphsh": {
+      "obj_path": "/Kaisou04.obj",
+      "materials": {
+        "Floor00": {
+          "mat_name": "Floor",
+          "mat_flags": [ "Ice", "BombCantBind" ]
+        },
+        "Fence00": {
+          "mat_name": "Fence",
+          "mat_flags": [ "Fence", "ForceColPaintNotPaintable" ]
+        },
+        "Slope00": {
+          "mat_name": "Asphalt",
+          "mat_flags": [ "Ice", "BombCantBind" ]
+        },
+        "Wall00": {
+          "mat_name": "Wall",
+          "mat_flags": [ "Ice", "BombCantBind" ]
+        },
+        "Water": {
+          "fx_preset": "Water"
+        },
+        "Fence00": {
+          "fx_preset": "Fence"
+        }
+      }
+    }
+  },
+  "map_patches": {
+    "Vss_Kaisou03": {
+      "paint_workaround": false
+    }
+  }
+}

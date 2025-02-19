@@ -1,0 +1,304 @@
+{
+  "collision": {
+    "Phive/Shape/Dcc/Fld_Spider00.Nin_NX_NVN.bphsh": {
+      "obj_path": "/Fld_Deli_Octa08.obj",
+      "materials": {
+        "COL_14": {
+          "mat_name": "Asphalt",
+          "mat_flags": [
+            "ForceColPaintNotPaintable"
+          ]
+        },
+        "COL_17": {
+          "mat_name": "Asphalt",
+          "mat_flags": [
+            "ForceColPaintNotPaintable"
+          ],
+          "col_disable_flag": [
+            "Ground",
+            "NoHit",
+            "Unspecified"
+          ]
+        },
+        "COL_4": {
+          "mat_name": "Asphalt",
+          "mat_flags": [
+            "ForceColPaintNotPaintable"
+          ],
+          "col_disable_flag": [
+            "Unspecified",
+            "NoHit",
+            "Ground"
+          ]
+        },
+        "COL_40": {
+          "mat_name": "Asphalt",
+          "mat_flags": [
+            "ForceColPaintPaintable"
+          ],
+          "col_disable_flag": [
+            "Ground",
+            "NoHit",
+            "Unspecified"
+          ]
+        },
+        "COL_4007": {
+        "col_disable_flags": [
+            "NoHit",
+            "SplCamera",
+            "SplInkBullet",
+            "SplInkBullet_FriendThrough",
+            "SplRollerBody",
+            "SplInkShield",
+            "SplBlowerInhale",
+            "SplInkTornado",
+            "SplGreatBarrier",
+            "SplSaberBombGuard",
+            "SplPaintSplash",
+            "Unspecified",
+            "Ground",
+            "SplPlayerSquid_NoThroughFence",
+            "SplPlayerChariot",
+            "Sight",
+            "EnemyLarge",
+            "Shield",
+            "SplBall"
+        ],
+        "mat_flags": [
+            "Fence"
+        ],
+        "mat_name": "Fence"
+    },
+        "COL_4008": {
+        "col_disable_flags": [
+            "NoHit",
+            "SplCamera",
+            "SplInkBullet",
+            "SplInkBullet_FriendThrough",
+            "SplRollerBody",
+            "SplInkShield",
+            "SplBlowerInhale",
+            "SplInkTornado",
+            "SplGreatBarrier",
+            "SplSaberBombGuard",
+            "SplPaintSplash",
+            "Unspecified",
+            "Ground",
+            "SplPlayerSquid_NoThroughFence",
+            "SplPlayerChariot",
+            "Sight",
+            "EnemyLarge",
+            "Shield",
+            "SplBall"
+        ],
+        "mat_flags": [
+            "Fence"
+        ],
+        "mat_name": "Fence"
+    },
+        "COL_41": {
+          "mat_name": "Asphalt",
+          "mat_flags": [
+            "ForceColPaintPaintable"
+          ],
+          "col_disable_flag": [
+            "Unspecified",
+            "NoHit",
+            "Ground"
+          ]
+        },
+        "COL_42": {
+          "mat_name": "Asphalt",
+          "mat_flags": [
+            "ForceColPaintPaintable"
+          ],
+          "col_disable_flag": [
+            "Ground",
+            "NoHit",
+            "Unspecified"
+          ]
+        },
+        "COL_43": {
+          "mat_name": "Asphalt",
+          "mat_flags": [
+            "ForceColPaintPaintable"
+          ],
+          "col_disable_flag": [
+            "Unspecified",
+            "NoHit",
+            "Ground"
+          ]
+        },
+        "COL_45": {
+          "mat_name": "Asphalt",
+          "mat_flags": [
+            "ForceColPaintPaintable"
+          ],
+          "col_disable_flag": [
+            "Ground",
+            "NoHit",
+            "Unspecified"
+          ]
+        },
+        "COL_48": {
+          "mat_name": "Asphalt",
+          "mat_flags": [
+            "ForceColPaintPaintable"
+          ],
+          "col_disable_flag": [
+            "Unspecified",
+            "NoHit",
+            "Ground"
+          ]
+        },
+        "COL_4A": {
+          "mat_name": "Asphalt",
+          "mat_flags": [
+            "ForceColPaintPaintable"
+          ],
+          "col_disable_flag": [
+            "Ground",
+            "NoHit",
+            "Unspecified"
+          ]
+        },
+        "COL_6": {
+          "mat_name": "Asphalt",
+          "mat_flags": [
+            "ForceColPaintNotPaintable"
+          ],
+          "col_disable_flag": [
+            "Unspecified",
+            "NoHit",
+            "Ground"
+          ]
+        },
+        "COL_6008": {
+        "col_disable_flags": [
+            "NoHit",
+            "SplCamera",
+            "SplInkBullet",
+            "SplInkBullet_FriendThrough",
+            "SplRollerBody",
+            "SplInkShield",
+            "SplBlowerInhale",
+            "SplInkTornado",
+            "SplGreatBarrier",
+            "SplSaberBombGuard",
+            "SplPaintSplash",
+            "Unspecified",
+            "Ground",
+            "SplPlayerSquid_NoThroughFence",
+            "SplPlayerChariot",
+            "Sight",
+            "EnemyLarge",
+            "Shield",
+            "SplBall"
+        ],
+        "mat_flags": [
+            "Fence"
+        ],
+        "mat_name": "Fence"
+    },
+        "COL_604": {
+          "mat_name": "Asphalt",
+          "mat_flags": [
+            "ForceColPaintNotPaintable"
+          ],
+          "col_disable_flag": [
+            "Unspecified",
+            "NoHit",
+            "Ground"
+          ]
+        },
+        "COL_8": {
+          "mat_name": "Asphalt",
+          "mat_flags": [
+            "ForceColPaintNotPaintable"
+          ],
+          "col_disable_flag": [
+            "Ground",
+            "NoHit",
+            "Unspecified"
+          ]
+        },
+        "COL_80": {
+          "mat_name": "Asphalt",
+          "mat_flags": [
+            "ForceColPaintPaintable"
+          ],
+          "col_disable_flag": [
+            "Unspecified",
+            "NoHit",
+            "Ground"
+          ]
+        },
+        "COL_85": {
+          "mat_name": "Asphalt",
+          "mat_flags": [
+            "ForceColPaintPaintable"
+          ],
+          "col_disable_flag": [
+            "Ground",
+            "NoHit",
+            "Unspecified"
+          ]
+        },
+        "COL_C0": {
+          "mat_name": "Asphalt",
+          "mat_flags": [
+            "ForceColPaintPaintable"
+          ],
+          "col_disable_flag": [
+            "Unspecified",
+            "NoHit",
+            "Ground"
+          ]
+        },
+        "COL_E": {
+        "col_disable_flags": [
+            "NoHit",
+            "GameCustomReceiver",
+            "Ground",
+            "Water",
+            "SplCamera",
+            "SplInkBullet",
+            "SplInkBullet_FriendThrough",
+            "SplSubstanceBullet",
+            "SplSubstanceBullet_HitOpposite",
+            "SplSubstanceBullet_HitBullet",
+            "SplSubstanceBullet_Lite",
+            "SplRollerBody",
+            "SplStationedWeapon",
+            "SplInkShield",
+            "SplBlowerInhale",
+            "SplBluntWeapon",
+            "SplInkFilm",
+            "SplInkTornado",
+            "SplGreatBarrier",
+            "SplSaberBombGuard",
+            "SplPaintSplash",
+            "SplObject",
+            "MissionEnemy",
+            "SplCoopEnemy",
+            "SplSdodrEnemy",
+            "SplItem",
+            "SplWallaObj",
+            "Unspecified",
+            "Ground"
+        ],
+        "mat_flags": [
+            "KeepOut",
+            "ForceColPaintNotPaintable"
+        ],
+        "mat_name": "Undefined"
+    }
+      }
+    }
+  },
+  "map_patches": {
+    "Vss_Spider00": {
+      "extend_col_heap": true
+    }
+  }
+}
