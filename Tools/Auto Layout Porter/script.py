@@ -98,7 +98,7 @@ def convert_yaml(input_filename, output_filename):
         yaml.dump(output_data, f, default_flow_style=False, indent=2)
 
 if __name__ == "__main__":
-    input_filename = 'Fld_Amida01_Vss.yaml'
+    input_filename = 'OldLayout.yaml'
     output_filename = 'Sp3Layout.yaml'
 
     convert_yaml(input_filename, output_filename)
