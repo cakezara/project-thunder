@@ -24,6 +24,6 @@ def invert_image_colors(input_folder, output_folder=None):
 # Specify your input folder here
 input_folder = 'Textures'
 # Specify your output folder here (or None to overwrite the input folder)
-output_folder = 'Textures/Output'  # Set to None to overwrite original images
+output_folder = 'None'  # Set to None to overwrite original images
 
 invert_image_colors(input_folder, output_folder)
