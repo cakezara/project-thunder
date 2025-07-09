@@ -1,0 +1,6 @@
+E:\.Everything\Nintendo\NX\Game Extracts\Splatoon 3\9.1.0 + base\Model\Hed_EYE027.bfres.zs
+E:\.Everything\Nintendo\NX\Game Extracts\Splatoon 3\9.1.0 + base\Model\Wmn_Charger_NormalT.bfres.zs
+E:\.Everything\Nintendo\NX\Game Extracts\Splatoon 3\9.1.0 + base\Model\Player00.bfres.zs
+E:\.Everything\Nintendo\NX\Game Extracts\Splatoon 3\9.1.0 + base\Model\Har_OCT006_M.bfres.zs
+E:\.Everything\Nintendo\NX\Game Extracts\Splatoon 3\10.0 + base\Model\Npc_IdolA.Fixed.bfres
+E:\.Everything\Nintendo\NX\Game Extracts\Splatoon 3\10.0 + base\Model\Npc_IdolB.Fixed.bfres

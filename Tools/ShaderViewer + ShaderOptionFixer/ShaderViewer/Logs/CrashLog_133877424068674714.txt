@@ -1,0 +1,26 @@
+Exception of type 'System.OutOfMemoryException' was thrown.
+    at CafeLibrary.Rendering.BfresAnimations.GetCubicSlopes(Single time, Single delta, Single[] coef) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\Animations\BfresAnimations.cs:line 166
+   at CafeLibrary.Rendering.BfresAnimations.GetSlopes(AnimCurve curve, Single index) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\Animations\BfresAnimations.cs:line 144
+   at CafeLibrary.Rendering.BfresAnimations.GenerateKeys(BfresAnimationTrack track, AnimCurve curve, Boolean valuesAsInts) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\Animations\BfresAnimations.cs:line 68
+   at CafeLibrary.Rendering.BfresSkeletalAnim.Reload(SkeletalAnim anim) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\Animations\BfresSkeletalAnim.cs:line 319
+   at CafeLibrary.Rendering.BfresSkeletalAnim..ctor(ResFile resFile, SkeletalAnim anim, String name) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\Animations\BfresSkeletalAnim.cs:line 61
+   at CafeLibrary.AnimationsFolder.AddSkeletalAnimation(SkeletalAnim anim) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\Editing\Nodes\AnimationsFolder.cs:line 186
+   at CafeLibrary.AnimationsFolder.Reload() in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\Editing\Nodes\AnimationsFolder.cs:line 132
+   at CafeLibrary.AnimationsFolder..ctor(BFRES bfres, ResFile resFile) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\Editing\Nodes\AnimationsFolder.cs:line 39
+   at CafeLibrary.BFRES.Reload() in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\BFRES.cs:line 168
+   at CafeLibrary.BFRES.Load(Stream stream) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\BFRES.cs:line 64
+   at Toolbox.Core.IO.STFileLoader.SetFileFormat(IFileFormat fileFormat, String FileName, Stream stream, Settings settings) in C:\Users\Nathan\source\repos\EXKingModelViewer\Toolbox.Core\src\IO\STFileLoader.cs:line 169
+   at Toolbox.Core.IO.STFileLoader.OpenFileFormat(Stream stream, String FileName, Settings settings) in C:\Users\Nathan\source\repos\EXKingModelViewer\Toolbox.Core\src\IO\STFileLoader.cs:line 134
+   at Toolbox.Core.IO.STFileLoader.OpenFileFormat(Stream stream, String FileName, Settings settings) in C:\Users\Nathan\source\repos\EXKingModelViewer\Toolbox.Core\src\IO\STFileLoader.cs:line 112
+   at Toolbox.Core.IO.STFileLoader.OpenFileFormat(String FileName, Settings settings) in C:\Users\Nathan\source\repos\EXKingModelViewer\Toolbox.Core\src\IO\STFileLoader.cs:line 85
+   at MapStudio.UI.Workspace.LoadFileFormat(String filePath, Boolean isProject) in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\Workspace\Workspace.cs:line 337
+   at MapStudio.MainWindow.LoadFileFormat(String filePath) in C:\Users\Nathan\source\repos\EXKingModelViewer\Track Studio\src\MainWindow.cs:line 643
+   at MapStudio.MainWindow.OpenFileWithDialog() in C:\Users\Nathan\source\repos\EXKingModelViewer\Track Studio\src\MainWindow.cs:line 611
+   at UIFramework.MenuItem.Execute() in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\UIFramework\MenuItem\MenuItem.cs:line 112
+   at MapStudio.UI.ImGuiHelper.<>c__DisplayClass11_0.<DrawMenuItem>b__0() in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\Imgui\Helpers\ImGuiHelper.cs:line 191
+   at UIFramework.Framework.OnRenderFrame(FrameEventArgs e) in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\UIFramework\Framework.cs:line 97
+   at OpenTK.GameWindow.RaiseRenderFrame(Double elapsed, Double& timestamp)
+   at OpenTK.GameWindow.DispatchRenderFrame()
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at OpenTK.GameWindow.Run()
+   at MapStudio.Program.Main(String[] args) in C:\Users\Nathan\source\repos\EXKingModelViewer\Track Studio\src\Program.cs:line 58

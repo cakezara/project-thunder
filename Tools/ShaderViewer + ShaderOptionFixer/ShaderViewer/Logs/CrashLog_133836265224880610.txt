@@ -1,0 +1,13 @@
+The given key 'M_TeamColor_Alb' was not present in the dictionary.
+    at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CafeLibrary.BFRES.<Reload>b__33_6(Object o, EventArgs e) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\BFRES.cs:line 220
+   at CafeLibrary.TextureNode.ReplaceTexture(ImportedTexture importedTex) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\Editing\Nodes\TextureWrappers.cs:line 379
+   at CafeLibrary.TextureFolder.<>c__DisplayClass27_0.<ReplaceTextures>b__0(Boolean o) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\Editing\Nodes\TextureWrappers.cs:line 715
+   at MapStudio.UI.DialogHandler.ClosePopup(Boolean isOk) in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\Dialogs\DialogHandler.cs:line 115
+   at MapStudio.UI.TextureDialog.<DrawProperties>b__22_0() in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\Dialogs\TextureDialog\TextureDialog.cs:line 409
+   at UIFramework.Framework.OnRenderFrame(FrameEventArgs e) in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\UIFramework\Framework.cs:line 97
+   at OpenTK.GameWindow.RaiseRenderFrame(Double elapsed, Double& timestamp)
+   at OpenTK.GameWindow.DispatchRenderFrame()
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at OpenTK.GameWindow.Run()
+   at MapStudio.Program.Main(String[] args) in C:\Users\Nathan\source\repos\EXKingModelViewer\Track Studio\src\Program.cs:line 58

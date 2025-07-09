@@ -1,0 +1,26 @@
+Unable to cast object of type 'GLFrameworkEngine.Renderbuffer' to type 'GLFrameworkEngine.GLTexture2D'.
+    at CafeLibrary.EXKingSceneRender.get_DynamicReflection() in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\GameShaders\TOTK\EXKingSceneRender.cs:line 78
+   at BfresEditor.EXKingSystemRender.GetExternalTexture(GLContext control, String sampler) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\GameShaders\TOTK\EXKingSystemRender.cs:line 232
+   at CafeLibrary.Rendering.BfshaRenderer.SetTextureUniforms(GLContext control, ShaderProgram shader, STGenericMaterial mat) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\GameShaders\BfshaRenderer.cs:line 564
+   at CafeLibrary.Rendering.BfshaRenderer.Render(GLContext control, BfresModelRender parentModel, GLTransform transform, ShaderProgram shader, GenericPickableMesh mesh) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\GameShaders\BfshaRenderer.cs:line 194
+   at BfresEditor.EXKingSystemRender.Render(GLContext control, BfresModelRender parentModel, GLTransform transform, ShaderProgram shader, GenericPickableMesh mesh) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\GameShaders\TOTK\EXKingSystemRender.cs:line 165
+   at CafeLibrary.Rendering.BfresModelRender.DrawCustomShaderRender(GLContext context, BfresRender parentRender, BfresMeshRender mesh, Int32 stage) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\BfresModelRender.cs:line 314
+   at CafeLibrary.Rendering.BfresModelRender.RenderMesh(GLContext context, BfresRender parentRender, BfresMeshRender mesh) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\BfresModelRender.cs:line 287
+   at CafeLibrary.EXKingDeferredRender.Render(GLContext context) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\GameShaders\TOTK\EXKingDeferredRender.cs:line 58
+   at CafeLibrary.EXKingSceneRender.Render(GLContext context, Framebuffer materialPass) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\GameShaders\TOTK\EXKingSceneRender.cs:line 158
+   at MapStudio.UI.ViewportRenderer.RenderScene(RenderFrameArgs frameArgs, Framebuffer outputBuffer) in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\DockedWindows\Viewport\Pipeline.cs:line 233
+   at MapStudio.UI.ViewportRenderer.RenderScene(Framebuffer outputBuffer) in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\DockedWindows\Viewport\Pipeline.cs:line 214
+   at MapStudio.UI.ViewportScreen.RenderViewportDisplay(ViewportRenderer Pipeline) in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\DockedWindows\Viewport\ViewportScreen.cs:line 61
+   at MapStudio.UI.Viewport.Render() in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\DockedWindows\Viewport\Viewport.cs:line 189
+   at UIFramework.Window.Show() in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\UIFramework\Window\Window.cs:line 103
+   at UIFramework.DockSpaceWindow.Render() in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\UIFramework\Window\DockSpaceWindow.cs:line 57
+   at MapStudio.UI.Workspace.Render() in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\Workspace\Workspace.cs:line 229
+   at UIFramework.Window.Show() in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\UIFramework\Window\Window.cs:line 103
+   at MapStudio.MainWindow.Render() in C:\Users\Nathan\source\repos\EXKingModelViewer\Track Studio\src\MainWindow.cs:line 150
+   at UIFramework.MainWindow.OnRenderFrame() in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\UIFramework\MainWindow.cs:line 88
+   at UIFramework.Framework.OnRenderFrame(FrameEventArgs e) in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\UIFramework\Framework.cs:line 121
+   at OpenTK.GameWindow.RaiseRenderFrame(Double elapsed, Double& timestamp)
+   at OpenTK.GameWindow.DispatchRenderFrame()
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at OpenTK.GameWindow.Run()
+   at MapStudio.Program.Main(String[] args) in C:\Users\Nathan\source\repos\EXKingModelViewer\Track Studio\src\Program.cs:line 55

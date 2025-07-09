@@ -1,0 +1,6 @@
+For both programs, they need the extracted shader archive from Splatoon 3 ("Archive" folder in Option Fixer and "GlobalShaders" in Shader Viewer).
+Here's a link to the 10.0.0 shader archive: https://drive.google.com/file/d/1Ix6OvTFpmqxs502KIY9Ggn57p8D0Tnyz/view?usp=sharing
+
+For Shader Option Fixer, you just need to drag and drop the .zs file onto the "ShaderOptionFixer.exe" and a fixed version of the file will be in the original file location named "[File Name].Fixed.bfres" 
+This should fix any issues you may have with viewing the model in Shader Viewer.
+

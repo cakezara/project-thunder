@@ -1,0 +1,24 @@
+Index was outside the bounds of the array.
+    at Ryujinx.Graphics.Shader.Decoders.Decoder.FillBlock(ShaderConfig config, Block block, UInt64 limitAddress, UInt64 startAddress)
+   at Ryujinx.Graphics.Shader.Decoders.Decoder.Decode(ShaderConfig config, UInt64 startAddress)
+   at Ryujinx.Graphics.Shader.Translation.Translator.DecodeShader(UInt64 address, IGpuAccessor gpuAccessor, TranslationOptions options)
+   at Ryujinx.Graphics.Shader.Translation.Translator.CreateContext(UInt64 address, IGpuAccessor gpuAccessor, TranslationOptions options)
+   at CafeLibrary.Rendering.TegraShaderTranslator.Translate(Byte[] data) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\ShaderTools\ShaderLoaders\TegraShaderTranslator.cs:line 33
+   at CafeLibrary.Rendering.TegraShaderTranslator.TranslateShaderABinary(Byte[] data) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\ShaderTools\ShaderLoaders\TegraShaderTranslator.cs:line 48
+   at CafeLibrary.ShaderStageWrapper..ctor(ShaderVariation variation) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\Imgui\Sharcfb\SharcfbWrapper.cs:line 118
+   at CafeLibrary.SharcProgramWrapper.ReloadProgram() in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\Imgui\Sharcfb\SharcfbWrapper.cs:line 58
+   at CafeLibrary.SharcProgramWrapper..ctor(ShaderProgram program) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\Imgui\Sharcfb\SharcfbWrapper.cs:line 47
+   at CafeLibrary.SharcfbWrapper..ctor(SHARCFB sharc) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\Imgui\Sharcfb\SharcfbWrapper.cs:line 24
+   at CafeLibrary.SHARCFB.Load(Stream stream) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Sharcfb\SHARCFB.cs:line 80
+   at Toolbox.Core.IO.STFileLoader.SetFileFormat(IFileFormat fileFormat, String FileName, Stream stream, Settings settings) in C:\Users\Nathan\source\repos\EXKingModelViewer\Toolbox.Core\src\IO\STFileLoader.cs:line 169
+   at Toolbox.Core.IO.STFileLoader.OpenFileFormat(Stream stream, String FileName, Settings settings) in C:\Users\Nathan\source\repos\EXKingModelViewer\Toolbox.Core\src\IO\STFileLoader.cs:line 134
+   at Toolbox.Core.IO.STFileLoader.OpenFileFormat(String FileName, Settings settings) in C:\Users\Nathan\source\repos\EXKingModelViewer\Toolbox.Core\src\IO\STFileLoader.cs:line 85
+   at MapStudio.UI.Workspace.LoadFileFormat(String filePath, Boolean isProject) in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\Workspace\Workspace.cs:line 337
+   at MapStudio.MainWindow.LoadFileFormat(String filePath) in C:\Users\Nathan\source\repos\EXKingModelViewer\Track Studio\src\MainWindow.cs:line 585
+   at MapStudio.MainWindow.<>c__DisplayClass23_0.<LoadRecentFiles>b__0() in C:\Users\Nathan\source\repos\EXKingModelViewer\Track Studio\src\MainWindow.cs:line 355
+   at UIFramework.Framework.OnRenderFrame(FrameEventArgs e) in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\UIFramework\Framework.cs:line 97
+   at OpenTK.GameWindow.RaiseRenderFrame(Double elapsed, Double& timestamp)
+   at OpenTK.GameWindow.DispatchRenderFrame()
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at OpenTK.GameWindow.Run()
+   at MapStudio.Program.Main(String[] args) in C:\Users\Nathan\source\repos\EXKingModelViewer\Track Studio\src\Program.cs:line 55

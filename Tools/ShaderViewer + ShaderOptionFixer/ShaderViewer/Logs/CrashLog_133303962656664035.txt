@@ -1,0 +1,46 @@
+Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+Actual value was 0.
+    at System.Collections.BitArray.ThrowArgumentOutOfRangeException(Int32 index)
+   at System.Collections.BitArray.get_Item(Int32 index)
+   at Ryujinx.Graphics.Gal.Texture.BitArrayStream.ReadBits(Int32 Length) in C:\Users\Nathan\source\repos\EXKingModelViewer\Toolbox.Core\src\Textures\Decoders\ASTC\BitArrayStream.cs:line 22
+   at Ryujinx.Graphics.Gal.Texture.ASTCDecoder.DecodeBlockInfo(BitArrayStream BitStream) in C:\Users\Nathan\source\repos\EXKingModelViewer\Toolbox.Core\src\Textures\Decoders\ASTC\ASTCDecoder.cs:line 1121
+   at Ryujinx.Graphics.Gal.Texture.ASTCDecoder.DecompressBlock(Byte[] InputBuffer, Int32[] OutputBuffer, Int32 BlockWidth, Int32 BlockHeight) in C:\Users\Nathan\source\repos\EXKingModelViewer\Toolbox.Core\src\Textures\Decoders\ASTC\ASTCDecoder.cs:line 120
+   at Ryujinx.Graphics.Gal.Texture.ASTCDecoder.DecodeToRGBA8888(Byte[] InputBuffer, Int32 BlockX, Int32 BlockY, Int32 BlockZ, Int32 X, Int32 Y, Int32 Z) in C:\Users\Nathan\source\repos\EXKingModelViewer\Toolbox.Core\src\Textures\Decoders\ASTC\ASTCDecoder.cs:line 88
+   at Toolbox.Core.Imaging.ASTCDecode.Decode(TexFormat format, Byte[] input, Int32 width, Int32 height, Byte[]& output) in C:\Users\Nathan\source\repos\EXKingModelViewer\Toolbox.Core\src\Textures\Decoders\ASTC.cs:line 28
+   at Toolbox.Core.STGenericTexture.DecodeBlock(Byte[] data, UInt32 width, UInt32 height, TexFormat format) in C:\Users\Nathan\source\repos\EXKingModelViewer\Toolbox.Core\src\Generic\Texture\STGenericTexture.cs:line 364
+   at Toolbox.Core.STGenericTexture.GetDecodedSurface(Int32 ArrayLevel, Int32 MipLevel, Int32 DepthLevel) in C:\Users\Nathan\source\repos\EXKingModelViewer\Toolbox.Core\src\Generic\Texture\STGenericTexture.cs:line 343
+   at GLFrameworkEngine.GLTexture.LoadImage(STGenericTexture texture, ImageParameters parameters) in C:\Users\Nathan\source\repos\EXKingModelViewer\GLFrameworkEngine\Objects\Texture\GLTexture.cs:line 146
+   at GLFrameworkEngine.GLTexture2D.FromGeneric(STGenericTexture texture, ImageParameters parameters) in C:\Users\Nathan\source\repos\EXKingModelViewer\GLFrameworkEngine\Objects\Texture\GLTexture2D.cs:line 124
+   at GLFrameworkEngine.GLTexture.FromGenericTexture(STGenericTexture texture, ImageParameters parameters) in C:\Users\Nathan\source\repos\EXKingModelViewer\GLFrameworkEngine\Objects\Texture\GLTexture.cs:line 111
+   at MapStudio.Program.TextureCreationOpenGL(Object sender, EventArgs e) in C:\Users\Nathan\source\repos\EXKingModelViewer\Track Studio\src\Program.cs:line 127
+   at Toolbox.Core.RenderResourceCreator.CreateTexture(STGenericTexture texture) in C:\Users\Nathan\source\repos\EXKingModelViewer\Toolbox.Core\src\RenderingBase\RenderResourceCreator.cs:line 16
+   at Toolbox.Core.STGenericTexture.LoadRenderableTexture() in C:\Users\Nathan\source\repos\EXKingModelViewer\Toolbox.Core\src\Generic\Texture\STGenericTexture.cs:line 168
+   at GLFrameworkEngine.GenericRenderer.TextureView..ctor(STGenericTexture texture) in C:\Users\Nathan\source\repos\EXKingModelViewer\GLFrameworkEngine\Assets\GenericRenderer.cs:line 48
+   at BfresEditor.EXKingMaterialRender.LoadMesh(BfresMeshRender mesh) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\GameShaders\TOTK\EXKingMaterialRender.cs:line 53
+   at CafeLibrary.Rendering.BfshaRenderer.OnMeshUpdated(BfresMeshRender mesh) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\GameShaders\BfshaRenderer.cs:line 121
+   at CafeLibrary.Rendering.BfshaRenderer.OnLoad(ShaderModel shaderModel, BfresMeshRender meshAsset) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\GameShaders\BfshaRenderer.cs:line 115
+   at CafeLibrary.Rendering.BfshaRenderer.TryLoadShader(BfresRender bfres, BfresMeshRender meshAsset) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\GameShaders\BfshaRenderer.cs:line 96
+   at CafeLibrary.Rendering.BfresLoader.UpdateMaterial(BfresMaterialRender matRender, BfresRender render, FMAT fmat, BfresModelRender model, BfresMeshRender meshRender, Material mat) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\Loading\BfresLoader.cs:line 309
+   at CafeLibrary.FSHP.UpdateMaterial() in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\Editing\Nodes\ModelWrapper.cs:line 2037
+   at CafeLibrary.FSHP.SetupRender(BfresMeshRender meshRender) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\Editing\Nodes\ModelWrapper.cs:line 1925
+   at CafeLibrary.FMDL.ReloadModel() in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\Editing\Nodes\ModelWrapper.cs:line 292
+   at CafeLibrary.FMDL..ctor(BFRES bfres, ResFile resFile, Model model) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\Editing\Nodes\ModelWrapper.cs:line 218
+   at CafeLibrary.ModelFolder..ctor(BFRES bfres, ResFile resFile) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\Editing\Nodes\ModelWrapper.cs:line 49
+   at CafeLibrary.BFRES.Reload() in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\BFRES.cs:line 160
+   at CafeLibrary.BFRES.Load(Stream stream) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\BFRES.cs:line 57
+   at Toolbox.Core.IO.STFileLoader.SetFileFormat(IFileFormat fileFormat, String FileName, Stream stream, Settings settings) in C:\Users\Nathan\source\repos\EXKingModelViewer\Toolbox.Core\src\IO\STFileLoader.cs:line 169
+   at Toolbox.Core.IO.STFileLoader.OpenFileFormat(Stream stream, String FileName, Settings settings) in C:\Users\Nathan\source\repos\EXKingModelViewer\Toolbox.Core\src\IO\STFileLoader.cs:line 134
+   at Toolbox.Core.IO.STFileLoader.OpenFileFormat(String FileName, Settings settings) in C:\Users\Nathan\source\repos\EXKingModelViewer\Toolbox.Core\src\IO\STFileLoader.cs:line 85
+   at MapStudio.UI.Workspace.LoadFileFormat(String filePath, Boolean isProject) in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\Workspace\Workspace.cs:line 337
+   at MapStudio.MainWindow.LoadFileFormat(String filePath) in C:\Users\Nathan\source\repos\EXKingModelViewer\Track Studio\src\MainWindow.cs:line 585
+   at MapStudio.MainWindow.OnFileDrop(String filePath) in C:\Users\Nathan\source\repos\EXKingModelViewer\Track Studio\src\MainWindow.cs:line 672
+   at UIFramework.Framework.OnFileDrop(FileDropEventArgs e) in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\UIFramework\Framework.cs:line 145
+   at OpenTK.NativeWindow.OnFileDropInternal(Object sender, FileDropEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at OpenTK.Platform.Windows.WinGLNative.HandleDropFiles(IntPtr handle, WindowMessage message, IntPtr wParam, IntPtr lParam)
+   at OpenTK.Platform.Windows.WinGLNative.WindowProcedure(IntPtr handle, WindowMessage message, IntPtr wParam, IntPtr lParam)
+   at OpenTK.Platform.Windows.Functions.DispatchMessage(MSG& msg)
+   at OpenTK.Platform.Windows.WinGLNative.ProcessEvents()
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at OpenTK.GameWindow.Run()
+   at MapStudio.Program.Main(String[] args) in C:\Users\Nathan\source\repos\EXKingModelViewer\Track Studio\src\Program.cs:line 55

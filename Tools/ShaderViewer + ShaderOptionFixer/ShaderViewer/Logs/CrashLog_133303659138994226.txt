@@ -1,0 +1,8 @@
+An attempt was made to load a program with an incorrect format. (0x8007000B)
+    at ImGuiNET.ImGuiNative.igCreateContext(ImFontAtlas* shared_font_atlas)
+   at ImGuiNET.ImGui.CreateContext()
+   at MapStudio.UI.ImGuiController..ctor(Int32 width, Int32 height) in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\Imgui\ImGuiController\ImGuiController.cs:line 55
+   at UIFramework.Framework.OnLoad(EventArgs e) in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\UIFramework\Framework.cs:line 74
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at OpenTK.GameWindow.Run()
+   at MapStudio.Program.Main(String[] args) in C:\Users\Nathan\source\repos\EXKingModelViewer\Track Studio\src\Program.cs:line 55

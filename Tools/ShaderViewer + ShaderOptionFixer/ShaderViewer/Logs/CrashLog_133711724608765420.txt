@@ -1,0 +1,26 @@
+Exception of type 'System.OutOfMemoryException' was thrown.
+    at System.IO.MemoryStream.set_Capacity(Int32 value)
+   at System.IO.MemoryStream.EnsureCapacity(Int32 value)
+   at System.IO.MemoryStream.Write(ReadOnlySpan`1 buffer)
+   at System.IO.BinaryWriter.Write(Int32 value)
+   at Syroot.BinaryData.BinaryDataWriter.Write(Int32 value)
+   at BfresLibrary.BoneAnim.BfresLibrary.Core.IResData.Save(ResFileSaver saver) in C:\Users\Nathan\Documents\GitHub\BfresLibrary\BfresLibrary\Shared\SkeletalAnim\BoneAnim.cs:line 387
+   at BfresLibrary.Switch.Core.ResFileSwitchSaver.WriteSkeletonAnimations(SkeletalAnim ska) in C:\Users\Nathan\Documents\GitHub\BfresLibrary\BfresLibrary\Switch\Core\ResFileSaver.cs:line 959
+   at BfresLibrary.Switch.Core.ResFileSwitchSaver.Execute() in C:\Users\Nathan\Documents\GitHub\BfresLibrary\BfresLibrary\Switch\Core\ResFileSaver.cs:line 585
+   at BfresLibrary.ResFile.Save(Stream stream, Boolean leaveOpen) in C:\Users\Nathan\Documents\GitHub\BfresLibrary\BfresLibrary\Shared\ResFile.cs:line 91
+   at CafeLibrary.BFRES.Save(Stream stream) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\BFRES.cs:line 369
+   at Toolbox.Core.IO.STFileSaver.SaveFileFormat(IFileFormat fileFormat, String fileName, EventHandler onCompress) in C:\Users\Nathan\source\repos\EXKingModelViewer\Toolbox.Core\src\IO\STFileSaver.cs:line 62
+   at MapStudio.UI.Workspace.SaveFileData(IFileFormat fileFormat, String filePath) in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\Workspace\Workspace.cs:line 672
+   at MapStudio.UI.Workspace.SaveFileData() in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\Workspace\Workspace.cs:line 632
+   at MapStudio.MainWindow.OnKeyDown(KeyboardKeyEventArgs e) in C:\Users\Nathan\source\repos\EXKingModelViewer\Track Studio\src\MainWindow.cs:line 752
+   at UIFramework.Framework.OnKeyDown(KeyboardKeyEventArgs e) in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\UIFramework\Framework.cs:line 157
+   at OpenTK.NativeWindow.OnKeyDownInternal(Object sender, KeyboardKeyEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at OpenTK.Platform.NativeWindowBase.OnKeyDown(Key key, Boolean repeat)
+   at OpenTK.Platform.Windows.WinGLNative.HandleKeyboard(IntPtr handle, WindowMessage message, IntPtr wParam, IntPtr lParam)
+   at OpenTK.Platform.Windows.WinGLNative.WindowProcedure(IntPtr handle, WindowMessage message, IntPtr wParam, IntPtr lParam)
+   at OpenTK.Platform.Windows.Functions.DispatchMessage(MSG& msg)
+   at OpenTK.Platform.Windows.WinGLNative.ProcessEvents()
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at OpenTK.GameWindow.Run()
+   at MapStudio.Program.Main(String[] args) in C:\Users\Nathan\source\repos\EXKingModelViewer\Track Studio\src\Program.cs:line 58

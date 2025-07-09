@@ -1,0 +1,27 @@
+Unable to cast object of type 'System.Int32' to type 'System.UInt32'.
+    at MapStudio.UI.ImGuiHelper.InputFromUint(String label, Object obj, String properyName, Int32 step, Boolean drag) in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\Imgui\Helpers\ImguiPropertyBinding.cs:line 29
+   at CafeLibrary.MaterialParameter.LoadParamUI(FMAT material, ShaderParam param, String label, Boolean drag) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\Imgui\Material\MaterialParameter.cs:line 221
+   at CafeLibrary.MaterialParameter.LoadParamColumns(FMAT material, ShaderParam param, Int32 index, Boolean animated) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\Imgui\Material\MaterialParameter.cs:line 140
+   at CafeLibrary.MaterialParameter.Render(FMAT material) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\Imgui\Material\MaterialParameter.cs:line 102
+   at CafeLibrary.BfresMaterialEditor.<PrepareTabs>b__11_1() in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\Imgui\Material\BfresMaterialEditor.cs:line 175
+   at MapStudio.UI.TabPage.Render() in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\UIFramework\TabControl\TabControl.cs:line 141
+   at MapStudio.UI.TabControl.DrawVerticalTabs() in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\UIFramework\TabControl\TabControl.cs:line 82
+   at MapStudio.UI.TabControl.Render() in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\UIFramework\TabControl\TabControl.cs:line 32
+   at CafeLibrary.BfresMaterialEditor.LoadEditorMenus(FMAT material) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\Imgui\Material\BfresMaterialEditor.cs:line 158
+   at CafeLibrary.BfresMaterialEditor.LoadEditor(FMAT material) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\Imgui\Material\BfresMaterialEditor.cs:line 35
+   at CafeLibrary.FMAT.OnRenderUI(Object uiInstance) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\Editing\Nodes\ModelWrapper.cs:line 1618
+   at MapStudio.UI.PropertyWindow.TryLoadPropertyUI(Object obj, Boolean valueChanged) in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\DockedWindows\Properties\PropertyWindow.cs:line 78
+   at MapStudio.UI.PropertyWindow.Render(NodeBase node) in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\DockedWindows\Properties\PropertyWindow.cs:line 61
+   at MapStudio.UI.PropertyWindow.Render() in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\DockedWindows\Properties\PropertyWindow.cs:line 30
+   at UIFramework.Window.Show() in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\UIFramework\Window\Window.cs:line 103
+   at UIFramework.DockSpaceWindow.Render() in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\UIFramework\Window\DockSpaceWindow.cs:line 57
+   at MapStudio.UI.Workspace.Render() in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\Workspace\Workspace.cs:line 229
+   at UIFramework.Window.Show() in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\UIFramework\Window\Window.cs:line 103
+   at MapStudio.MainWindow.Render() in C:\Users\Nathan\source\repos\EXKingModelViewer\Track Studio\src\MainWindow.cs:line 150
+   at UIFramework.MainWindow.OnRenderFrame() in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\UIFramework\MainWindow.cs:line 88
+   at UIFramework.Framework.OnRenderFrame(FrameEventArgs e) in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\UIFramework\Framework.cs:line 121
+   at OpenTK.GameWindow.RaiseRenderFrame(Double elapsed, Double& timestamp)
+   at OpenTK.GameWindow.DispatchRenderFrame()
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at OpenTK.GameWindow.Run()
+   at MapStudio.Program.Main(String[] args) in C:\Users\Nathan\source\repos\EXKingModelViewer\Track Studio\src\Program.cs:line 55

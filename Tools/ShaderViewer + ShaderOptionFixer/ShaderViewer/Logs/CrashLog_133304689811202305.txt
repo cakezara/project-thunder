@@ -1,0 +1,31 @@
+An attempt was made to move the position before the beginning of the stream.
+    at System.IO.MemoryStream.Seek(Int64 offset, SeekOrigin loc)
+   at Syroot.BinaryData.BinaryDataWriter.Seek(Int64 offset, SeekOrigin origin)
+   at Toolbox.Core.IO.FileWriter.SeekBegin(Int32 Offset) in C:\Users\Nathan\source\repos\EXKingModelViewer\Toolbox.Core\src\IO\FileWriter.cs:line 189
+   at CafeLibrary.Rendering.BfshaRenderer.SetMaterialOptionsBlock(UniformBlock block) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\GameShaders\BfshaRenderer.cs:line 479
+   at BfresEditor.EXKingMaterialRender.LoadUniformBlock(GLContext control, ShaderProgram shader, Int32 index, BfresModelRender parentModel, GLTransform transform, UniformBlock block, String name, GenericPickableMesh mesh) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\GameShaders\TOTK\EXKingMaterialRender.cs:line 158
+   at CafeLibrary.Rendering.BfshaRenderer.UpdateUniforms(GLContext context, BfresModelRender parentModel, GLTransform transform, ShaderProgram shader, GenericPickableMesh mesh) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\GameShaders\BfshaRenderer.cs:line 235
+   at CafeLibrary.Rendering.BfshaRenderer.Render(GLContext control, BfresModelRender parentModel, GLTransform transform, ShaderProgram shader, GenericPickableMesh mesh) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\GameShaders\BfshaRenderer.cs:line 198
+   at BfresEditor.EXKingMaterialRender.Render(GLContext control, BfresModelRender parentModel, GLTransform transform, ShaderProgram shader, GenericPickableMesh mesh) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\GameShaders\TOTK\EXKingMaterialRender.cs:line 132
+   at CafeLibrary.Rendering.BfresModelRender.DrawCustomShaderRender(GLContext context, BfresRender parentRender, BfresMeshRender mesh, Int32 stage) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\BfresModelRender.cs:line 317
+   at CafeLibrary.Rendering.BfresModelRender.RenderMesh(GLContext context, BfresRender parentRender, BfresMeshRender mesh) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\BfresModelRender.cs:line 290
+   at CafeLibrary.Rendering.BfresModelRender.Draw(GLContext context, Pass pass, BfresRender parentRender) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\BfresModelRender.cs:line 93
+   at CafeLibrary.Rendering.BfresRender.DrawModel(GLContext control, Pass pass) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\BfresRender.cs:line 272
+   at CafeLibrary.EXKingSceneRender.DrawGBuffer(GLContext context) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\GameShaders\TOTK\EXKingSceneRender.cs:line 216
+   at CafeLibrary.EXKingSceneRender.Render(GLContext context, Framebuffer materialPass) in C:\Users\Nathan\source\repos\EXKingModelViewer\Plugins\CafeLibrary\Bfres\GameShaders\TOTK\EXKingSceneRender.cs:line 182
+   at MapStudio.UI.ViewportRenderer.RenderScene(RenderFrameArgs frameArgs, Framebuffer outputBuffer) in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\DockedWindows\Viewport\Pipeline.cs:line 233
+   at MapStudio.UI.ViewportRenderer.RenderScene(Framebuffer outputBuffer) in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\DockedWindows\Viewport\Pipeline.cs:line 214
+   at MapStudio.UI.ViewportScreen.RenderViewportDisplay(ViewportRenderer Pipeline) in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\DockedWindows\Viewport\ViewportScreen.cs:line 61
+   at MapStudio.UI.Viewport.Render() in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\DockedWindows\Viewport\Viewport.cs:line 189
+   at UIFramework.Window.Show() in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\UIFramework\Window\Window.cs:line 103
+   at UIFramework.DockSpaceWindow.Render() in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\UIFramework\Window\DockSpaceWindow.cs:line 57
+   at MapStudio.UI.Workspace.Render() in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\Workspace\Workspace.cs:line 229
+   at UIFramework.Window.Show() in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\UIFramework\Window\Window.cs:line 103
+   at MapStudio.MainWindow.Render() in C:\Users\Nathan\source\repos\EXKingModelViewer\Track Studio\src\MainWindow.cs:line 150
+   at UIFramework.MainWindow.OnRenderFrame() in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\UIFramework\MainWindow.cs:line 88
+   at UIFramework.Framework.OnRenderFrame(FrameEventArgs e) in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\UIFramework\Framework.cs:line 121
+   at OpenTK.GameWindow.RaiseRenderFrame(Double elapsed, Double& timestamp)
+   at OpenTK.GameWindow.DispatchRenderFrame()
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at OpenTK.GameWindow.Run()
+   at MapStudio.Program.Main(String[] args) in C:\Users\Nathan\source\repos\EXKingModelViewer\Track Studio\src\Program.cs:line 55

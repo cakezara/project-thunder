@@ -1,0 +1,41 @@
+Insufficient memory to continue the execution of the program.
+    at System.Runtime.InteropServices.Marshal.AllocHGlobal(IntPtr cb)
+   at SixLabors.ImageSharp.Memory.Internals.UnmanagedMemoryHandle.AllocateHandle(Int32 lengthInBytes)
+   at SixLabors.ImageSharp.Memory.Internals.UnmanagedMemoryHandle.Allocate(Int32 lengthInBytes)
+   at SixLabors.ImageSharp.Memory.Internals.UniformUnmanagedMemoryPool.Rent()
+   at SixLabors.ImageSharp.Memory.UniformUnmanagedMemoryPoolMemoryAllocator.AllocateGroup[T](Int64 totalLength, Int32 bufferAlignment, AllocationOptions options)
+   at SixLabors.ImageSharp.Memory.MemoryAllocatorExtensions.Allocate2D[T](MemoryAllocator memoryAllocator, Int32 width, Int32 height, Boolean preferContiguosImageBuffers, AllocationOptions options)
+   at SixLabors.ImageSharp.Image.CreateUninitialized[TPixel](Configuration configuration, Int32 width, Int32 height, ImageMetadata metadata)
+   at SixLabors.ImageSharp.Formats.Png.PngDecoderCore.InitializeImage[TPixel](ImageMetadata metadata, Image`1& image)
+   at SixLabors.ImageSharp.Formats.Png.PngDecoderCore.Decode[TPixel](BufferedReadStream stream, CancellationToken cancellationToken)
+   at SixLabors.ImageSharp.Formats.ImageDecoderUtilities.Decode[TPixel](IImageDecoderInternals decoder, Configuration configuration, Stream stream, Func`3 largeImageExceptionFactory, CancellationToken cancellationToken)
+   at SixLabors.ImageSharp.Formats.ImageDecoderUtilities.Decode[TPixel](IImageDecoderInternals decoder, Configuration configuration, Stream stream, CancellationToken cancellationToken)
+   at SixLabors.ImageSharp.Formats.Png.PngDecoder.Decode[TPixel](Configuration configuration, Stream stream, CancellationToken cancellationToken)
+   at SixLabors.ImageSharp.Image.Decode[TPixel](Stream stream, Configuration config, CancellationToken cancellationToken)
+   at SixLabors.ImageSharp.Image.<>c__DisplayClass130_0`1.<Load>b__0(Stream s)
+   at SixLabors.ImageSharp.Image.WithSeekableStream[T](Configuration configuration, Stream stream, Func`2 action)
+   at SixLabors.ImageSharp.Image.Load[TPixel](Configuration configuration, Stream stream, IImageFormat& format)
+   at SixLabors.ImageSharp.Image.Load[TPixel](Configuration configuration, Stream stream)
+   at SixLabors.ImageSharp.Image.Load[TPixel](Configuration configuration, Byte[] data)
+   at SixLabors.ImageSharp.Image.Load[TPixel](Byte[] data)
+   at GLFrameworkEngine.GLTexture2D.FromBitmap(Byte[] imageFile, Boolean isLinear) in C:\Users\Nathan\source\repos\EXKingModelViewer\GLFrameworkEngine\Objects\Texture\GLTexture2D.cs:line 143
+   at MapStudio.UI.IconManager.InitTextures() in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\Icons\IconManager.cs:line 120
+   at MapStudio.UI.IconManager.GetTextureIcon(String key) in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\Icons\IconManager.cs:line 208
+   at MapStudio.UI.Outliner.DrawNode(NodeBase node, Single itemHeight, Int32 level) in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\DockedWindows\Outliner\Outliner.cs:line 534
+   at MapStudio.UI.Outliner.DrawNode(NodeBase node, Single itemHeight, Int32 level) in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\DockedWindows\Outliner\Outliner.cs:line 770
+   at MapStudio.UI.Outliner.DrawNode(NodeBase node, Single itemHeight, Int32 level) in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\DockedWindows\Outliner\Outliner.cs:line 770
+   at MapStudio.UI.Outliner.DrawNode(NodeBase node, Single itemHeight, Int32 level) in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\DockedWindows\Outliner\Outliner.cs:line 770
+   at MapStudio.UI.Outliner.DrawNode(NodeBase node, Single itemHeight, Int32 level) in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\DockedWindows\Outliner\Outliner.cs:line 770
+   at MapStudio.UI.Outliner.Render() in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\DockedWindows\Outliner\Outliner.cs:line 271
+   at UIFramework.Window.Show() in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\UIFramework\Window\Window.cs:line 103
+   at UIFramework.DockSpaceWindow.Render() in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\UIFramework\Window\DockSpaceWindow.cs:line 57
+   at MapStudio.UI.Workspace.Render() in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\Workspace\Workspace.cs:line 229
+   at UIFramework.Window.Show() in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\UIFramework\Window\Window.cs:line 103
+   at MapStudio.MainWindow.Render() in C:\Users\Nathan\source\repos\EXKingModelViewer\Track Studio\src\MainWindow.cs:line 201
+   at UIFramework.MainWindow.OnRenderFrame() in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\UIFramework\MainWindow.cs:line 88
+   at UIFramework.Framework.OnRenderFrame(FrameEventArgs e) in C:\Users\Nathan\source\repos\EXKingModelViewer\MapStudio.UI\src\UIFramework\Framework.cs:line 121
+   at OpenTK.GameWindow.RaiseRenderFrame(Double elapsed, Double& timestamp)
+   at OpenTK.GameWindow.DispatchRenderFrame()
+   at OpenTK.GameWindow.Run(Double updates_per_second, Double frames_per_second)
+   at OpenTK.GameWindow.Run()
+   at MapStudio.Program.Main(String[] args) in C:\Users\Nathan\source\repos\EXKingModelViewer\Track Studio\src\Program.cs:line 55
