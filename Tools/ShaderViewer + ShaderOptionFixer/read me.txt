@@ -1,3 +1,9 @@
+!SHADER VIEWER ONLY WORKS ON NVIDIA GRAPHICS CARDS!
+
+You need to install Net 7.0.20 x86 which can be fould here: https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x86-installer
+And you need to downgrade your Nvidia Driver to a specific version which can be found here: https://drive.google.com/file/d/1hZimQblZ87wSfYA_B5jNLYc3a1VQ4I6H/view?usp=sharing
+
+
 For both programs, they need the extracted shader archive from Splatoon 3 ("Archive" folder in Option Fixer and "GlobalShaders" in Shader Viewer).
 Here's a link to the 10.0.0 shader archive: https://drive.google.com/file/d/1Ix6OvTFpmqxs502KIY9Ggn57p8D0Tnyz/view?usp=sharing
 
