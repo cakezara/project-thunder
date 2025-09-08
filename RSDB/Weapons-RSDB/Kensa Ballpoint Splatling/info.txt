@@ -1,0 +1,14 @@
+[NAME]
+Kensa Ballpoint Splatling
+[Suffix]
+CstmT
+[ORIGINAL]
+Spinner_Downpour
+[SUB]
+Beacon
+[Special]
+SpInkStorm
+[POINTS]
+200
+[ID]
+202602
