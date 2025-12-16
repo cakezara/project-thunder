@@ -1,0 +1,14 @@
+[NAME]
+KensaDualies
+[Suffix]
+CstmTh
+[ORIGINAL]
+Maneuver_Normal
+[SUB]
+Bomb_Torpedo
+[Special]
+SpJetpack
+[POINTS]
+200
+[ID]
+3015

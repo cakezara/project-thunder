@@ -1,0 +1,14 @@
+[NAME]
+KensaSqueezer
+[Suffix]
+CstmTh
+[ORIGINAL]
+Shooter_Flash
+[SUB]
+Bomb_Curling
+[Special]
+SpSuperHook
+[POINTS]
+190
+[ID]
+2053

@@ -1,0 +1,14 @@
+[NAME]
+KensaPro
+[Suffix]
+CstmTh
+[ORIGINAL]
+Shooter_Expert
+[SUB]
+Bomb_Robot
+[Special]
+SpInkStorm
+[POINTS]
+190
+[ID]
+3035

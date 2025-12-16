@@ -1,0 +1,14 @@
+[NAME]
+KensaStamper
+[Suffix]
+CstmTh
+[ORIGINAL]
+Saber_Normal
+[SUB]
+Bomb_Suction
+[Special]
+SpBlower
+[POINTS]
+190
+[ID]
+2033
