@@ -1,0 +1,10 @@
+# How to setup Project Thunder
+
+-- On Switch, and Ryujinx
+
+1. Drag the 'atmosphere' folder to the root of your SD Card
+2. Make sure you're on version 10.1.0, which is the version Project Thunder supports.
+3. We recommend starting with a full save file, but it's okay if not.
+
+
+Need help? Join our discord! https://discord.gg/2nbR6EDrSC
