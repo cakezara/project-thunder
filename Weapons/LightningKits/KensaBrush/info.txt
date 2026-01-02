@@ -1,0 +1,14 @@
+[NAME]
+KensaBrush
+[Suffix]
+CstmTh
+[ORIGINAL]
+Brush_Mini
+[SUB]
+PointSensor
+[Special]
+SpEnergyStand
+[POINTS]
+190
+[ID]
+2013
