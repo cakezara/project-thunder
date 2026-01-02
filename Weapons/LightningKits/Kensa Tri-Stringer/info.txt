@@ -1,0 +1,14 @@
+[NAME]
+Kensa Tri-Stringer
+[Suffix]
+CstmTh
+[ORIGINAL]
+Stringer_Normal
+[SUB]
+Bomb_Robot
+[Special]
+SpChariot
+[POINTS]
+190
+[ID]
+2032

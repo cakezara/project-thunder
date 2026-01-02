@@ -1,0 +1,14 @@
+[NAME]
+Kensa Decavitator
+[Suffix]
+CstmTh
+[ORIGINAL]
+Saber_Heavy
+[SUB]
+Bomb_Curling
+[Special]
+SpCastle
+[POINTS]
+200
+[ID]
+2034
