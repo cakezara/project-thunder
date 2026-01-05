@@ -1,0 +1,14 @@
+[NAME]
+Kensa S-BLAST '93
+[Suffix]
+CstmT
+[ORIGINAL]
+Blaster_Precision
+[SUB]
+Bomb_Torpedo
+[Special]
+SpUltraShot
+[POINTS]
+200
+[ID]
+2026

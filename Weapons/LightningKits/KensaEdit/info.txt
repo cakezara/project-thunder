@@ -1,0 +1,14 @@
+[NAME]
+Kensa Heavy Edit Splatling
+[Suffix]
+CstmT
+[ORIGINAL]
+Spinner_HyperShort
+[SUB]
+Trap
+[Special]
+SpPogo
+[POINTS]
+200
+[ID]
+2027
