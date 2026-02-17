@@ -1,0 +1,3 @@
+- Export as .dds instead of png for Splatoon 1 (optional for S2-only maps)
+- Import properly (Do not replace), and make sure channels and mipmaps line up (and file size)
+- Keep exact same Channel Layout as prior, for example if Blue and Alpha are zero, keep them zero (Toolbox might mess this up)
