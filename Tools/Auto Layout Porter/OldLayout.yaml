@@ -1,0 +1,4704 @@
+Version: 1
+IsBigEndian: True
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  FilePath: D:/home/Cafe/Gambit/Raw/Map/Fld_Jyoheki00_Vss/Fld_Jyoheki00_Vss.muunt
+  Objs:
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj4
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Cmn
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 180.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 0
+      Translate: {X: -142.00000, Y: 140.00000, Z: 683.00000}
+      UnitConfigName: RespawnPos
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj5
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Cmn
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 1
+      Translate: {X: 139.00000, Y: 140.00000, Z: -680.00000}
+      UnitConfigName: RespawnPos
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj19
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Cmn
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      UnitConfigName: Fld_Jyoheki00
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: 150.00000
+      Id: obj24
+      IsAbleToBeHalfDrawFPS: true
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Cmn
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 116.00000, Y: 1.00000, Z: 140.00000}
+      UnitConfigName: Obj_Tree00
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: 150.00000
+      Id: obj25
+      IsAbleToBeHalfDrawFPS: true
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Cmn
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 13.00000, Y: 79.71368, Z: 609.00000}
+      UnitConfigName: Obj_Tree00
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj39
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Day
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 3.43775, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: -60.00000, Y: 40.61595, Z: 340.00000}
+      UnitConfigName: Brd_Sparrow00
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj40
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Day
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: -29.79380, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: -40.00000, Y: 42.13988, Z: 360.00000}
+      UnitConfigName: Brd_Sparrow00
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj41
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Tmp
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 88.32675, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: -414.00000, Y: 75.12085, Z: 445.00000}
+      UnitConfigName: Obj_Windsock
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj42
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Tmp
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 101.45920, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 415.00000, Y: 75.12278, Z: -445.00000}
+      UnitConfigName: Obj_Windsock
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj44
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Day
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 110.09910, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 40.00000, Y: 40.66329, Z: -380.00000}
+      UnitConfigName: Brd_Sparrow00
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj45
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Day
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 168.63210, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 50.00000, Y: 41.30407, Z: -360.00000}
+      UnitConfigName: Brd_Sparrow00
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj46
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Day
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 143.69750, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 59.00000, Y: 120.00000, Z: -516.00000}
+      UnitConfigName: Brd_Sparrow00
+      VsCullingDistance: -1.00000
+    - Anim0: Dance00
+      BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj51
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Tmp
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 159.37360, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 216.00000, Y: 50.66409, Z: -635.00000}
+      UnitConfigName: Obj_Jerry00
+      VsCullingDistance: -1.00000
+    - Anim0: Dance00
+      BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj52
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Pnt
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: -156.89920, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 232.00000, Y: 50.50003, Z: -634.00000}
+      UnitConfigName: Obj_Jerry00
+      VsCullingDistance: -1.00000
+    - Anim0: Dance00
+      BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj53
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Pnt
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 23.10077, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: -229.00000, Y: 50.50003, Z: 633.00000}
+      UnitConfigName: Obj_Jerry00
+      VsCullingDistance: -1.00000
+    - Anim0: Dance00
+      BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj54
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Tmp
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: -20.62644, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: -213.00000, Y: 50.66409, Z: 634.00000}
+      UnitConfigName: Obj_Jerry00
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: 150.00000
+      Id: obj77
+      IsAbleToBeHalfDrawFPS: true
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Cmn
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: -116.00000, Y: 1.00000, Z: -140.00000}
+      UnitConfigName: Obj_Tree00
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: 150.00000
+      Id: obj78
+      IsAbleToBeHalfDrawFPS: true
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Cmn
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: -13.00000, Y: 79.83868, Z: -609.00000}
+      UnitConfigName: Obj_Tree00
+      VsCullingDistance: -1.00000
+    - Anim0: SitA
+      BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj79
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Pnt
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 23.10077, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: -32.00000, Y: 50.37500, Z: 634.00000}
+      UnitConfigName: Obj_Jerry00
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj80
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Cmn
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      UnitConfigName: Obj_BridgeJyoheki00
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj81
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Cmn
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 180.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      UnitConfigName: Obj_BridgeJyoheki01
+      VsCullingDistance: -1.00000
+    - Anim0: Dance00
+      BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj82
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Tmp
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 23.10077, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: -338.00000, Y: 24.37500, Z: 453.00000}
+      UnitConfigName: Obj_Jerry00
+      VsCullingDistance: -1.00000
+    - Anim0: Byebye_random
+      BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj83
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Pnt
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: -156.89920, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 31.00000, Y: 50.37500, Z: -636.00000}
+      UnitConfigName: Obj_Jerry00
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj85
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Pnt
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 90.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: -89.90400, Y: 40.00000, Z: 332.70780}
+      UnitConfigName: Obj_GeneralBox_211
+      VsCullingDistance: -1.00000
+    - AttCalcType: !l 0
+      BGMGroup: !l -99
+      BreakFrame: !l 0
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj90
+      InterpolationType: !l 0
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsHiagariFloat: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsPivotedDoor: false
+      IsRefuseGndVelOnLift: false
+      IsScrew: false
+      IsStepPaintFriendThresholdWallHigh: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vlf
+      Links:
+        Rail:
+          - {DefinitionName: Rail, DestUnitId: rail3/10, UnitFileName: ''}
+      ModelName: null
+      MoveFrame: !l 1
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l 2
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      PatrolType: !l 0
+      RotDegX: 0.00000
+      RotDegX2: 0.00000
+      RotDegY: 0.00000
+      RotDegY2: 0.00000
+      RotDegZ: 0.00000
+      RotDegZ2: 0.00000
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      StandbyFrame: !l 0
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 124.73380, Y: 119.88130, Z: 31.57253}
+      UnitConfigName: Obj_VictoryLift
+      VelType: !l 0
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj93
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vlf
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 305.00000, Y: 135.00000, Z: -7.50000}
+      UnitConfigName: Obj_GeneralBox_212
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj94
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Pnt
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: -90.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 89.90423, Y: 40.00000, Z: -332.70790}
+      UnitConfigName: Obj_GeneralBox_211
+      VsCullingDistance: -1.00000
+    - Id: obj95
+      IsLinkDest: false
+      LayerConfigName: Var
+      Links: {}
+      ModelName: null
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.17268, Y: 0.39501, Z: 1.18221}
+      SpecialAutoIncSec: !l 40
+      SwitchTrigger: !l 0
+      Team: !l 2
+      Translate: {X: -157.99640, Y: 121.00000, Z: 0.04347}
+      UnitConfigName: PaintTargetArea
+    - DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      Id: obj97
+      IsLinkDest: false
+      LayerConfigName: Vgl
+      Links:
+        ToGachihokoTargetPoint:
+          - {DefinitionName: ToGachihokoTargetPoint, DestUnitId: obj115, UnitFileName: ''}
+          - {DefinitionName: ToGachihokoTargetPoint, DestUnitId: obj106, UnitFileName: ''}
+          - {DefinitionName: ToGachihokoTargetPoint, DestUnitId: obj125, UnitFileName: ''}
+          - {DefinitionName: ToGachihokoTargetPoint, DestUnitId: obj129, UnitFileName: ''}
+      ModelName: null
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 8.76166, Y: 2.17016, Z: 4.64608}
+      Switch0: !l 0
+      Switch1: !l 0
+      SwitchTrigger: !l 0
+      Team: !l 2
+      Translate: {X: 0.00000, Y: 97.25487, Z: 1.48416}
+      UnitConfigName: GachihokoRouteArea
+    - DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      Id: obj98
+      IsLinkDest: false
+      LayerConfigName: Vgl
+      Links:
+        ToGachihokoTargetPoint:
+          - {DefinitionName: ToGachihokoTargetPoint, DestUnitId: obj108, UnitFileName: ''}
+          - {DefinitionName: ToGachihokoTargetPoint, DestUnitId: obj102, UnitFileName: ''}
+          - {DefinitionName: ToGachihokoTargetPoint, DestUnitId: obj105, UnitFileName: ''}
+          - {DefinitionName: ToGachihokoTargetPoint, DestUnitId: obj114, UnitFileName: ''}
+      ModelName: null
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 2.87635, Y: 1.00000, Z: 0.73321}
+      Switch0: !l 0
+      Switch1: !l 0
+      SwitchTrigger: !l 0
+      Team: !l 2
+      Translate: {X: 289.05510, Y: -0.00001, Z: -272.79290}
+      UnitConfigName: GachihokoRouteArea
+    - DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      Id: obj99
+      IsLinkDest: false
+      LayerConfigName: Vgl
+      Links:
+        ToGachihokoTargetPoint:
+          - {DefinitionName: ToGachihokoTargetPoint, DestUnitId: obj103, UnitFileName: ''}
+      ModelName: null
+      Parameter0: !l 1
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 0.59910, Y: 1.00000, Z: 1.92542}
+      Switch0: !l 0
+      Switch1: !l 0
+      SwitchTrigger: !l 0
+      Team: !l 2
+      Translate: {X: 404.95500, Y: 61.64780, Z: -361.21880}
+      UnitConfigName: GachihokoRouteArea
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj100
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 407.50000, Y: -9.50000, Z: -262.50000}
+      UnitConfigName: Obj_GeneralBox_241
+      VsCullingDistance: -1.00000
+    - DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      Id: obj101
+      IsLinkDest: false
+      LayerConfigName: Vgl
+      Links:
+        ToGachihokoTargetPoint:
+          - {DefinitionName: ToGachihokoTargetPoint, DestUnitId: obj111, UnitFileName: ''}
+          - {DefinitionName: ToGachihokoTargetPoint, DestUnitId: obj107, UnitFileName: ''}
+      ModelName: null
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 0.97032, Y: 1.00000, Z: 0.80187}
+      Switch0: !l 0
+      Switch1: !l 0
+      SwitchTrigger: !l 0
+      Team: !l 2
+      Translate: {X: 326.44400, Y: 0.00000, Z: -349.80440}
+      UnitConfigName: GachihokoRouteArea
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj102
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: true
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 0
+      Translate: {X: 394.83000, Y: 50.00001, Z: -294.19800}
+      UnitConfigName: GachihokoTargetPoint
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj103
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: true
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 1
+      Translate: {X: 355.74340, Y: 0.00000, Z: -281.34560}
+      UnitConfigName: GachihokoTargetPoint
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj105
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: true
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 1
+      Translate: {X: 307.55390, Y: 16.38504, Z: -211.27420}
+      UnitConfigName: GachihokoTargetPoint
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj106
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: true
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 0
+      Translate: {X: 306.44750, Y: 0.00000, Z: -248.56240}
+      UnitConfigName: GachihokoTargetPoint
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj107
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: true
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 1
+      Translate: {X: 296.09340, Y: 0.00000, Z: -297.81620}
+      UnitConfigName: GachihokoTargetPoint
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj108
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: true
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 0
+      Translate: {X: 309.09670, Y: 0.00000, Z: -324.82920}
+      UnitConfigName: GachihokoTargetPoint
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj109
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: true
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 1
+      Translate: {X: 291.23510, Y: 0.00000, Z: -355.46920}
+      UnitConfigName: GachihokoTargetPoint
+      VsCullingDistance: -1.00000
+    - DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      Id: obj110
+      IsLinkDest: false
+      LayerConfigName: Vgl
+      Links:
+        ToGachihokoTargetPoint:
+          - {DefinitionName: ToGachihokoTargetPoint, DestUnitId: obj109, UnitFileName: ''}
+      ModelName: null
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 2.76579, Y: 0.93622, Z: 1.98312}
+      Switch0: !l 0
+      Switch1: !l 0
+      SwitchTrigger: !l 0
+      Team: !l 2
+      Translate: {X: 138.22950, Y: 30.43717, Z: -408.36190}
+      UnitConfigName: GachihokoRouteArea
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj111
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: true
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 0
+      Translate: {X: 263.08630, Y: 9.66498, Z: -354.53920}
+      UnitConfigName: GachihokoTargetPoint
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj114
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: true
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 1
+      Translate: {X: 191.20480, Y: 0.00000, Z: -213.92210}
+      UnitConfigName: GachihokoTargetPoint
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj115
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: true
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 0
+      Translate: {X: 196.96980, Y: 0.00000, Z: -248.71700}
+      UnitConfigName: GachihokoTargetPoint
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj116
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 162.00000, Y: 39.99998, Z: -502.50000}
+      UnitConfigName: Obj_GeneralBox_221
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: 220.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj117
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l 1
+      Parameter1: !l 1
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 1
+      Translate: {X: 115.00000, Y: 39.99997, Z: -425.00000}
+      UnitConfigName: Obj_VictoryPoint
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj119
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 17.50000, Y: 39.99998, Z: -502.50000}
+      UnitConfigName: Obj_GeneralBox_231
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: 220.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj120
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l 1
+      Parameter1: !l 1
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 0
+      Translate: {X: -115.00000, Y: 39.99997, Z: 425.00000}
+      UnitConfigName: Obj_VictoryPoint
+      VsCullingDistance: -1.00000
+    - DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      Id: obj121
+      IsLinkDest: false
+      LayerConfigName: Vgl
+      Links:
+        ToGachihokoTargetPoint:
+          - {DefinitionName: ToGachihokoTargetPoint, DestUnitId: obj137, UnitFileName: ''}
+          - {DefinitionName: ToGachihokoTargetPoint, DestUnitId: obj135, UnitFileName: ''}
+          - {DefinitionName: ToGachihokoTargetPoint, DestUnitId: obj130, UnitFileName: ''}
+          - {DefinitionName: ToGachihokoTargetPoint, DestUnitId: obj124, UnitFileName: ''}
+      ModelName: null
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 2.87635, Y: 1.00000, Z: 0.73321}
+      Switch0: !l 0
+      Switch1: !l 0
+      SwitchTrigger: !l 0
+      Team: !l 2
+      Translate: {X: -289.05490, Y: -0.00001, Z: 272.79280}
+      UnitConfigName: GachihokoRouteArea
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: 0.35000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj122
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 0.00000, Y: 149.12680, Z: 0.00000}
+      UnitConfigName: ScrambleBombFlower
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj124
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: true
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 0
+      Translate: {X: -191.20460, Y: 0.00000, Z: 213.92200}
+      UnitConfigName: GachihokoTargetPoint
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj125
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: true
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 1
+      Translate: {X: -196.96960, Y: 0.00000, Z: 248.71690}
+      UnitConfigName: GachihokoTargetPoint
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj126
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: true
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 1
+      Translate: {X: -263.08600, Y: 9.66498, Z: 354.53920}
+      UnitConfigName: GachihokoTargetPoint
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj127
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: true
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 0
+      Translate: {X: -291.23480, Y: 0.00000, Z: 355.46920}
+      UnitConfigName: GachihokoTargetPoint
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj128
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: true
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 0
+      Translate: {X: -296.09310, Y: 0.00000, Z: 297.81620}
+      UnitConfigName: GachihokoTargetPoint
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj129
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: true
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 1
+      Translate: {X: -306.44730, Y: 0.00000, Z: 248.56230}
+      UnitConfigName: GachihokoTargetPoint
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj130
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: true
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 0
+      Translate: {X: -307.55360, Y: 16.38504, Z: 211.27420}
+      UnitConfigName: GachihokoTargetPoint
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj131
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: true
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 0
+      Translate: {X: -355.74310, Y: 0.00000, Z: 281.34560}
+      UnitConfigName: GachihokoTargetPoint
+      VsCullingDistance: -1.00000
+    - DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      Id: obj132
+      IsLinkDest: false
+      LayerConfigName: Vgl
+      Links:
+        ToGachihokoTargetPoint:
+          - {DefinitionName: ToGachihokoTargetPoint, DestUnitId: obj131, UnitFileName: ''}
+      ModelName: null
+      Parameter0: !l 1
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 0.59910, Y: 0.70216, Z: 1.88745}
+      Switch0: !l 0
+      Switch1: !l 0
+      SwitchTrigger: !l 0
+      Team: !l 2
+      Translate: {X: -404.95470, Y: 76.54005, Z: 365.63840}
+      UnitConfigName: GachihokoRouteArea
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj135
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: true
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 1
+      Translate: {X: -394.83010, Y: 50.00001, Z: 294.19780}
+      UnitConfigName: GachihokoTargetPoint
+      VsCullingDistance: -1.00000
+    - DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      Id: obj136
+      IsLinkDest: false
+      LayerConfigName: Vgl
+      Links:
+        ToGachihokoTargetPoint:
+          - {DefinitionName: ToGachihokoTargetPoint, DestUnitId: obj127, UnitFileName: ''}
+      ModelName: null
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 2.76579, Y: 0.92621, Z: 1.98401}
+      Switch0: !l 0
+      Switch1: !l 0
+      SwitchTrigger: !l 0
+      Team: !l 2
+      Translate: {X: -138.22920, Y: 29.93649, Z: 408.40720}
+      UnitConfigName: GachihokoRouteArea
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj137
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: true
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 1
+      Translate: {X: -309.09650, Y: 0.00000, Z: 324.82920}
+      UnitConfigName: GachihokoTargetPoint
+      VsCullingDistance: -1.00000
+    - DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      Id: obj138
+      IsLinkDest: false
+      LayerConfigName: Vgl
+      Links:
+        ToGachihokoTargetPoint:
+          - {DefinitionName: ToGachihokoTargetPoint, DestUnitId: obj126, UnitFileName: ''}
+          - {DefinitionName: ToGachihokoTargetPoint, DestUnitId: obj128, UnitFileName: ''}
+      ModelName: null
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 0.97032, Y: 1.00000, Z: 0.80187}
+      Switch0: !l 0
+      Switch1: !l 0
+      SwitchTrigger: !l 0
+      Team: !l 2
+      Translate: {X: -326.44370, Y: 0.00000, Z: 349.80440}
+      UnitConfigName: GachihokoRouteArea
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: 300.00000
+      Id: obj139
+      IsAbleToBeHalfDrawFPS: true
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Tmp
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 88.32675, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: -378.00000, Y: 185.75720, Z: -54.00000}
+      UnitConfigName: Obj_Windsock
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: 300.00000
+      Id: obj140
+      IsAbleToBeHalfDrawFPS: true
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Tmp
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 90.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 405.00000, Y: 185.75720, Z: 55.00000}
+      UnitConfigName: Obj_Windsock
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj141
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Day
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 119.49580, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 46.00000, Y: 120.00000, Z: -517.00000}
+      UnitConfigName: Brd_Sparrow00
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj142
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Day
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: -36.30251, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: -58.99995, Y: 120.00000, Z: 516.00000}
+      UnitConfigName: Brd_Sparrow00
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj143
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Day
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: -60.50419, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: -45.99995, Y: 120.00000, Z: 517.00000}
+      UnitConfigName: Brd_Sparrow00
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: 11.00000
+      FloatParameter1: -11.00000
+      FloatParameter2: 25.00000
+      FloatParameter3: 0.99000
+      FloatParameter4: 0.30000
+      FloatParameter5: -12.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj145
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: true
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Tmp
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: -97.00000, Y: 48.00000, Z: 389.00000}
+      UnitConfigName: Obj_SeesawJyoheki
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: 11.00000
+      FloatParameter1: -11.00000
+      FloatParameter2: 25.00000
+      FloatParameter3: 0.99000
+      FloatParameter4: 0.30000
+      FloatParameter5: 12.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj146
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: true
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Tmp
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: -97.00000, Y: 48.00000, Z: 426.00000}
+      UnitConfigName: Obj_SeesawJyoheki
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj147
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Cmn
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 180.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: -80.00000, Y: 81.17908, Z: 254.00000}
+      UnitConfigName: Obj_WaterTankNoPaint
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj148
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Cmn
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00001, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 79.99998, Y: 81.17908, Z: -254.00000}
+      UnitConfigName: Obj_WaterTankNoPaint
+      VsCullingDistance: -1.00000
+    - Anim0: Dance00
+      BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj149
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Pnt
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: -11.00000, Y: 0.91867, Z: 128.00000}
+      UnitConfigName: Obj_Jerry00
+      VsCullingDistance: -1.00000
+    - Anim0: SitA
+      BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj150
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Pnt
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 5.00000, Y: 0.91867, Z: 129.00000}
+      UnitConfigName: Obj_Jerry00
+      VsCullingDistance: -1.00000
+    - Anim0: Dance00
+      BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj151
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Pnt
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 10.99999, Y: 0.91867, Z: -128.00000}
+      UnitConfigName: Obj_Jerry00
+      VsCullingDistance: -1.00000
+    - Anim0: SitA
+      BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj152
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Pnt
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: -5.00001, Y: 0.91867, Z: -129.00000}
+      UnitConfigName: Obj_Jerry00
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj153
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Cmn
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 170.00000, Y: 0.00000, Z: 674.00000}
+      UnitConfigName: Obj_BridgeJyoheki00
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj154
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Cmn
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: -170.00010, Y: 0.00000, Z: -674.00000}
+      UnitConfigName: Obj_BridgeJyoheki01
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj158
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: -161.99970, Y: 39.99998, Z: 502.49990}
+      UnitConfigName: Obj_GeneralBox_221
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj163
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vlf
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: -304.99980, Y: 135.00000, Z: 7.49995}
+      UnitConfigName: Obj_GeneralBox_212
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj164
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Var
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 305.00000, Y: 135.00000, Z: -7.50000}
+      UnitConfigName: Obj_GeneralBox_212
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj165
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Var
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: -304.99980, Y: 135.00000, Z: 7.49995}
+      UnitConfigName: Obj_GeneralBox_212
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj166
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Pnt
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 305.00000, Y: 135.00000, Z: -7.50000}
+      UnitConfigName: Obj_GeneralBox_212
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj167
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Pnt
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: -304.99980, Y: 135.00000, Z: 7.49995}
+      UnitConfigName: Obj_GeneralBox_212
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: 11.00000
+      FloatParameter1: -11.00000
+      FloatParameter2: 25.00000
+      FloatParameter3: 0.99000
+      FloatParameter4: 0.30000
+      FloatParameter5: 12.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj168
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: true
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Tmp
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 96.99996, Y: 48.00000, Z: -426.00000}
+      UnitConfigName: Obj_SeesawJyoheki
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: 11.00000
+      FloatParameter1: -11.00000
+      FloatParameter2: 25.00000
+      FloatParameter3: 0.99000
+      FloatParameter4: 0.30000
+      FloatParameter5: -12.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj169
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: true
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Tmp
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 96.99997, Y: 48.00000, Z: -389.00000}
+      UnitConfigName: Obj_SeesawJyoheki
+      VsCullingDistance: -1.00000
+    - Anim0: Byebye_random
+      BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj170
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Pnt
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 52.98584, Z: 0.00000}
+      Scale: {X: 2.00688, Y: 2.00688, Z: 2.00688}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: -408.00000, Y: -89.19531, Z: -748.00000}
+      UnitConfigName: Obj_Jerry00
+      VsCullingDistance: -1.00000
+    - Anim0: SitA
+      BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj171
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Pnt
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 83.92554, Z: 0.00000}
+      Scale: {X: 2.00688, Y: 2.00688, Z: 2.00688}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: -393.00000, Y: -90.04688, Z: -902.00000}
+      UnitConfigName: Obj_Jerry00
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj173
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vlf
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      UnitConfigName: Obj_DanchiWall
+      VsCullingDistance: -1.00000
+    - DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      Id: obj176
+      IsLinkDest: false
+      LayerConfigName: Vgl
+      Links:
+        ToGachihokoTargetPoint:
+          - {DefinitionName: ToGachihokoTargetPoint, DestUnitId: obj186, UnitFileName: ''}
+      ModelName: null
+      Parameter0: !l 1
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.98723, Y: 1.33033, Z: 2.65784}
+      Switch0: !l 0
+      Switch1: !l 0
+      SwitchTrigger: !l 0
+      Team: !l 2
+      Translate: {X: -190.43600, Y: 84.83770, Z: -388.23100}
+      UnitConfigName: GachihokoRouteArea
+    - DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      Id: obj177
+      IsLinkDest: false
+      LayerConfigName: Vgl
+      Links:
+        ToGachihokoTargetPoint:
+          - {DefinitionName: ToGachihokoTargetPoint, DestUnitId: obj185, UnitFileName: ''}
+      ModelName: null
+      Parameter0: !l 1
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 1.98723, Y: 1.33033, Z: 2.67489}
+      Switch0: !l 0
+      Switch1: !l 0
+      SwitchTrigger: !l 0
+      Team: !l 2
+      Translate: {X: 190.43630, Y: 84.83770, Z: 387.37880}
+      UnitConfigName: GachihokoRouteArea
+    - DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      Id: obj179
+      IsLinkDest: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 4.34770, Y: 1.53537, Z: 2.39374}
+      Switch0: !l 0
+      Switch1: !l 0
+      SwitchTrigger: !l 0
+      Team: !l 1
+      Translate: {X: 66.02156, Y: 106.76840, Z: -687.20390}
+      UnitConfigName: GachihokoHikikomoriArea
+    - DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      Id: obj181
+      IsLinkDest: false
+      LayerConfigName: Vgl
+      Links:
+        ToGachihokoTargetPoint:
+          - {DefinitionName: ToGachihokoTargetPoint, DestUnitId: obj115, UnitFileName: ''}
+          - {DefinitionName: ToGachihokoTargetPoint, DestUnitId: obj125, UnitFileName: ''}
+      ModelName: null
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 2.23823, Y: 0.92085, Z: 0.14044}
+      Switch0: !l 0
+      Switch1: !l 0
+      SwitchTrigger: !l 0
+      Team: !l 2
+      Translate: {X: -91.73470, Y: 3.77345, Z: -238.38110}
+      UnitConfigName: GachihokoRouteArea
+    - DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      Id: obj183
+      IsLinkDest: false
+      LayerConfigName: Vgl
+      Links:
+        ToGachihokoTargetPoint:
+          - {DefinitionName: ToGachihokoTargetPoint, DestUnitId: obj125, UnitFileName: ''}
+          - {DefinitionName: ToGachihokoTargetPoint, DestUnitId: obj115, UnitFileName: ''}
+      ModelName: null
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 2.23823, Y: 0.92085, Z: 0.12828}
+      Switch0: !l 0
+      Switch1: !l 0
+      SwitchTrigger: !l 0
+      Team: !l 2
+      Translate: {X: 91.73498, Y: 3.77345, Z: 238.98900}
+      UnitConfigName: GachihokoRouteArea
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj185
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: true
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 0
+      Translate: {X: 250.82500, Y: 30.10000, Z: 190.91960}
+      UnitConfigName: GachihokoTargetPoint
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj186
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: true
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 1
+      Translate: {X: -250.82480, Y: 30.10000, Z: -190.91960}
+      UnitConfigName: GachihokoTargetPoint
+      VsCullingDistance: -1.00000
+    - Id: obj187
+      IsLinkDest: false
+      LayerConfigName: Var
+      Links: {}
+      ModelName: null
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 1.17268, Y: 0.39501, Z: 1.18221}
+      SpecialAutoIncSec: !l 40
+      SwitchTrigger: !l 0
+      Team: !l 2
+      Translate: {X: 157.99660, Y: 121.00000, Z: -0.04356}
+      UnitConfigName: PaintTargetArea
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj188
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vlf
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      UnitConfigName: Obj_DanchiFence
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj189
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: -17.49970, Y: 39.99998, Z: 502.49990}
+      UnitConfigName: Obj_GeneralBox_231
+      VsCullingDistance: -1.00000
+    - DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      Id: obj190
+      IsLinkDest: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 4.34770, Y: 1.53537, Z: 2.39374}
+      Switch0: !l 0
+      Switch1: !l 0
+      SwitchTrigger: !l 0
+      Team: !l 0
+      Translate: {X: -66.02124, Y: 106.76840, Z: 687.20370}
+      UnitConfigName: GachihokoHikikomoriArea
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj191
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: -407.49970, Y: -9.50000, Z: 262.50000}
+      UnitConfigName: Obj_GeneralBox_241
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj192
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vlf
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: -407.49970, Y: -9.50000, Z: 262.50000}
+      UnitConfigName: Obj_GeneralBox_241
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj193
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vlf
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 407.50000, Y: -9.50000, Z: -262.50000}
+      UnitConfigName: Obj_GeneralBox_241
+      VsCullingDistance: -1.00000
+    - DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      Id: obj194
+      IsLinkDest: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 2.10608, Y: 0.17001, Z: 0.15373}
+      Switch0: !l 0
+      Switch1: !l 0
+      SwitchTrigger: !l 0
+      Team: !l 2
+      Translate: {X: -322.15180, Y: 188.23380, Z: -54.45239}
+      UnitConfigName: GachihokoReallocateInitPosArea
+    - DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      Id: obj195
+      IsLinkDest: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 2.10608, Y: 0.17001, Z: 0.15373}
+      Switch0: !l 0
+      Switch1: !l 0
+      SwitchTrigger: !l 0
+      Team: !l 2
+      Translate: {X: 322.15210, Y: 188.23380, Z: 54.45229}
+      UnitConfigName: GachihokoReallocateInitPosArea
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj196
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Cmn
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      UnitConfigName: Obj_CameraWallJyoheki00
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj197
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Cmn
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      UnitConfigName: Obj_DanchiStopper
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj198
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Cmn
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 180.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      UnitConfigName: Obj_DanchiStopper
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj199
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 90.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 279.50000, Y: 147.35470, Z: -127.00000}
+      UnitConfigName: Obj_GeneralBoxNoPaint_232
+      VsCullingDistance: -1.00000
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj200
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: -180.00000, Y: 0.00000, Z: 90.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: -279.50000, Y: 147.35470, Z: 127.00000}
+      UnitConfigName: Obj_GeneralBoxNoPaint_232
+      VsCullingDistance: -1.00000
+    - AirResistance: true
+      DropId: !l -1
+      FloatParameter0: 0.96000
+      FloatParameter1: 0.03000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      Id: obj201
+      IsGachihokoSquidJamCrank: false
+      IsLinkDest: false
+      LayerConfigName: Cmn
+      Links: {}
+      ModelName: null
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 0.60988, Y: 0.19977, Z: 0.56189}
+      Switch0: !l 0
+      Switch1: !l 0
+      SwitchTrigger: !l 0
+      Team: !l 2
+      Translate: {X: 215.84440, Y: 180.35550, Z: 128.40530}
+      UnitConfigName: PatchArea
+      WallPaintCheckOffset: false
+    - AirResistance: true
+      DropId: !l -1
+      FloatParameter0: 0.96000
+      FloatParameter1: 0.03000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      Id: obj202
+      IsGachihokoSquidJamCrank: false
+      IsLinkDest: false
+      LayerConfigName: Cmn
+      Links: {}
+      ModelName: null
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 0.60988, Y: 0.19977, Z: 0.56189}
+      Switch0: !l 0
+      Switch1: !l 0
+      SwitchTrigger: !l 0
+      Team: !l 2
+      Translate: {X: -215.84440, Y: 180.35550, Z: -128.40530}
+      UnitConfigName: PatchArea
+      WallPaintCheckOffset: false
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj206
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: 4.30000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: 117.12740, Y: 67.22977, Z: 481.43900}
+      UnitConfigName: Obj_GachiSignBoad
+      VsCullingDistance: -1.00000
+    - DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      Id: obj208
+      IsLinkDest: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Rotate: {X: -175.30000, Y: -0.00001, Z: 180.00000}
+      Scale: {X: 0.56703, Y: 0.71890, Z: 1.57668}
+      Switch0: !l 0
+      Switch1: !l 0
+      SwitchTrigger: !l 0
+      Team: !l 2
+      Translate: {X: -117.05440, Y: 109.30940, Z: -388.45560}
+      UnitConfigName: GachihokoHikikomoriArea2
+    - BGMGroup: !l -99
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      HalfDrawFPSDistance: -1.00000
+      Id: obj211
+      IsAbleToBeHalfDrawFPS: false
+      IsAbleToBeVsCulled: true
+      IsDyingPosOnLift: false
+      IsLiftBindableToBlock: false
+      IsLinkDest: false
+      IsMiiverse: false
+      IsObjPaintForResult: false
+      IsOceanBindable: false
+      IsRefuseGndVelOnLift: false
+      IsStrictPaintBlock: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      OceanBindSink: 5.00000
+      PaintDefault: false
+      PaintInvertible: false
+      PaintRatePerBullet: 0.04000
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Parameter3: !l -99
+      Parameter4: !l -99
+      Parameter5: !l -99
+      Rotate: {X: -175.70000, Y: -0.00001, Z: 180.00000}
+      Scale: {X: 1.00000, Y: 1.00000, Z: 1.00000}
+      Switch0: !l 0
+      Switch1: !l 0
+      Team: !l 2
+      Translate: {X: -117.12720, Y: 67.22977, Z: -481.43910}
+      UnitConfigName: Obj_GachiSignBoad
+      VsCullingDistance: -1.00000
+    - DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      Id: obj214
+      IsLinkDest: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Rotate: {X: 4.70000, Y: 0.00001, Z: -0.00001}
+      Scale: {X: 0.56703, Y: 0.71890, Z: 1.57668}
+      Switch0: !l 0
+      Switch1: !l 0
+      SwitchTrigger: !l 0
+      Team: !l 2
+      Translate: {X: 117.05470, Y: 109.30940, Z: 388.45560}
+      UnitConfigName: GachihokoHikikomoriArea2
+    - DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      Id: obj215
+      IsLinkDest: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 1.19044, Y: 0.65554, Z: 0.63403}
+      Switch0: !l 0
+      Switch1: !l 0
+      SwitchTrigger: !l 0
+      Team: !l 2
+      Translate: {X: 148.12960, Y: 110.39260, Z: 278.38520}
+      UnitConfigName: GachihokoHikikomoriArea2
+    - DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      Id: obj218
+      IsLinkDest: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 0.76647, Y: 0.58384, Z: 1.00817}
+      Switch0: !l 0
+      Switch1: !l 0
+      SwitchTrigger: !l 0
+      Team: !l 2
+      Translate: {X: -246.40100, Y: 106.84920, Z: -256.93890}
+      UnitConfigName: GachihokoHikikomoriArea2
+    - DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      Id: obj219
+      IsLinkDest: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 1.19044, Y: 0.65554, Z: 0.63403}
+      Switch0: !l 0
+      Switch1: !l 0
+      SwitchTrigger: !l 0
+      Team: !l 2
+      Translate: {X: -148.12940, Y: 110.39260, Z: -278.38530}
+      UnitConfigName: GachihokoHikikomoriArea2
+    - DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      Id: obj220
+      IsLinkDest: false
+      LayerConfigName: Vgl
+      Links: {}
+      ModelName: null
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 0.76647, Y: 0.58384, Z: 1.00817}
+      Switch0: !l 0
+      Switch1: !l 0
+      SwitchTrigger: !l 0
+      Team: !l 2
+      Translate: {X: 246.40130, Y: 106.84920, Z: 256.93880}
+      UnitConfigName: GachihokoHikikomoriArea2
+    - AirResistance: false
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: 9.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      Id: obj221
+      IsGachihokoSquidJamCrank: false
+      IsLinkDest: false
+      LayerConfigName: Cmn
+      Links: {}
+      ModelName: null
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 0.45241, Y: 1.21082, Z: 0.11338}
+      Switch0: !l 0
+      Switch1: !l 0
+      SwitchTrigger: !l 0
+      Team: !l 2
+      Translate: {X: -149.75740, Y: 59.19143, Z: 123.93520}
+      UnitConfigName: PatchArea
+      WallPaintCheckOffset: true
+    - AirResistance: false
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -9.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      Id: obj222
+      IsGachihokoSquidJamCrank: false
+      IsLinkDest: false
+      LayerConfigName: Cmn
+      Links: {}
+      ModelName: null
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 0.45241, Y: 1.21082, Z: 0.12137}
+      Switch0: !l 0
+      Switch1: !l 0
+      SwitchTrigger: !l 0
+      Team: !l 2
+      Translate: {X: 149.75740, Y: 59.19143, Z: -124.33450}
+      UnitConfigName: PatchArea
+      WallPaintCheckOffset: true
+    - AirResistance: false
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -9.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      Id: obj224
+      IsGachihokoSquidJamCrank: false
+      IsLinkDest: false
+      LayerConfigName: Cmn
+      Links: {}
+      ModelName: null
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 0.54891, Y: 0.46183, Z: 0.07744}
+      Switch0: !l 0
+      Switch1: !l 0
+      SwitchTrigger: !l 0
+      Team: !l 2
+      Translate: {X: 397.03110, Y: 80.82123, Z: -84.07436}
+      UnitConfigName: PatchArea
+      WallPaintCheckOffset: true
+    - AirResistance: false
+      DropId: !l -1
+      FloatParameter0: -99.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: 9.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      Id: obj225
+      IsGachihokoSquidJamCrank: false
+      IsLinkDest: false
+      LayerConfigName: Cmn
+      Links: {}
+      ModelName: null
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 0.64583, Y: 0.46183, Z: 0.07744}
+      Switch0: !l 0
+      Switch1: !l 0
+      SwitchTrigger: !l 0
+      Team: !l 2
+      Translate: {X: -392.18520, Y: 80.82123, Z: 84.07439}
+      UnitConfigName: PatchArea
+      WallPaintCheckOffset: true
+    - AirResistance: false
+      DropId: !l -1
+      FloatParameter0: 9.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      Id: obj226
+      IsGachihokoSquidJamCrank: false
+      IsLinkDest: false
+      LayerConfigName: Cmn
+      Links: {}
+      ModelName: null
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 0.09133, Y: 0.30114, Z: 1.20957}
+      Switch0: !l 0
+      Switch1: !l 0
+      SwitchTrigger: !l 0
+      Team: !l 2
+      Translate: {X: 363.90800, Y: 120.01030, Z: -70.98828}
+      UnitConfigName: PatchArea
+      WallPaintCheckOffset: true
+    - AirResistance: false
+      DropId: !l -1
+      FloatParameter0: 9.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      Id: obj227
+      IsGachihokoSquidJamCrank: false
+      IsLinkDest: false
+      LayerConfigName: Cmn
+      Links: {}
+      ModelName: null
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 0.10176, Y: 0.40664, Z: 0.15683}
+      Switch0: !l 0
+      Switch1: !l 0
+      SwitchTrigger: !l 0
+      Team: !l 2
+      Translate: {X: 363.30390, Y: 154.95080, Z: -55.11249}
+      UnitConfigName: PatchArea
+      WallPaintCheckOffset: true
+    - AirResistance: false
+      DropId: !l -1
+      FloatParameter0: 9.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -9.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      Id: obj228
+      IsGachihokoSquidJamCrank: false
+      IsLinkDest: false
+      LayerConfigName: Cmn
+      Links: {}
+      ModelName: null
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Rotate: {X: 0.00000, Y: -180.00000, Z: 0.00000}
+      Scale: {X: 0.09800, Y: 0.46183, Z: 0.07744}
+      Switch0: !l 0
+      Switch1: !l 0
+      SwitchTrigger: !l 0
+      Team: !l 2
+      Translate: {X: 364.75620, Y: 80.82123, Z: -84.07436}
+      UnitConfigName: PatchArea
+      WallPaintCheckOffset: true
+    - AirResistance: false
+      DropId: !l -1
+      FloatParameter0: 9.00000
+      FloatParameter1: -99.00000
+      FloatParameter2: -99.00000
+      FloatParameter3: -99.00000
+      FloatParameter4: -99.00000
+      FloatParameter5: -99.00000
+      Id: obj229
+      IsGachihokoSquidJamCrank: false
+      IsLinkDest: false
+      LayerConfigName: Cmn
+      Links: {}
+      ModelName: null
+      Parameter0: !l -99
+      Parameter1: !l -99
+      Parameter2: !l -99
+      Rotate: {X: 0.00000, Y: 0.00000, Z: 0.00000}
+      Scale: {X: 0.09133, Y: 0.72081, Z: 0.43912}
+      Switch0: !l 0
+      Switch1: !l 0
+      SwitchTrigger: !l 0
+      Team: !l 2
+      Translate: {X: 363.90800, Y: 69.15153, Z: -109.51070}
+      UnitConfigName: PatchArea
+      WallPaintCheckOffset: true

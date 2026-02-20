@@ -1,0 +1,2586 @@
+HasReferenceNodes: false
+IsBigEndian: false
+SupportPaths: false
+Version: 7
+root:
+  Actors:
+    - Gyaml: Obj_RespawnPos
+      Hash:  !ul 2144794108259361580 
+      InstanceID: 80091227-7914-5433-3792-294806842917
+      Layer: Cmn
+      Name: Obj_RespawnPos
+      Phive:
+        Placement:
+          ID:  !ul 2144794108259361580 
+      Rotate:
+      - 0.0
+      - 3.14159
+      - 0.0
+      SRTHash:  !u 59682770 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -14.20000 
+      -  14.00000 
+      -  68.30000 
+    - Gyaml: Obj_RespawnPos
+      Hash:  !ul 9850059422866544978 
+      InstanceID: 94238955-6432-7258-8197-096931083142
+      Layer: Cmn
+      Name: Obj_RespawnPos
+      Phive:
+        Placement:
+          ID:  !ul 9850059422866544978 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 25057646 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  13.90000 
+      -  14.00000 
+      -  -68.00000 
+    - Gyaml: Fld_Jyoheki00
+      Hash:  !ul 9629065277258465633 
+      InstanceID: 05648311-8970-8241-1948-124111299926
+      Layer: Cmn
+      Name: Fld_Jyoheki00
+      Phive:
+        Placement:
+          ID:  !ul 9629065277258465633 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 85863060 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  0.00000 
+      -  0.00000 
+      -  0.00000 
+    - Gyaml: Obj_Tree00
+      Hash:  !ul 5279161410218319413 
+      InstanceID: 55294605-0662-4755-5724-528805400947
+      Layer: Cmn
+      Name: Obj_Tree00
+      Phive:
+        Placement:
+          ID:  !ul 5279161410218319413 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 29207046 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  11.60000 
+      -  0.10000 
+      -  14.00000 
+    - Gyaml: Obj_Tree00
+      Hash:  !ul 9276028318589920518 
+      InstanceID: 79159972-2174-3928-2636-561961450803
+      Layer: Cmn
+      Name: Obj_Tree00
+      Phive:
+        Placement:
+          ID:  !ul 9276028318589920518 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 71783284 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  1.30000 
+      -  7.97137 
+      -  60.90000 
+    - Gyaml: Brd_Sparrow00
+      Hash:  !ul 6893041892313918722 
+      InstanceID: 26547467-8041-3455-5062-850631166243
+      Layer: Day
+      Name: Brd_Sparrow00
+      Phive:
+        Placement:
+          ID:  !ul 6893041892313918722 
+      Rotate:
+      - 0.0
+      - 0.06
+      - 0.0
+      SRTHash:  !u 72411585 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -6.00000 
+      -  4.06159 
+      -  34.00000 
+    - Gyaml: Brd_Sparrow00
+      Hash:  !ul 9776423545184610778 
+      InstanceID: 00212101-8581-9478-4974-638247142644
+      Layer: Day
+      Name: Brd_Sparrow00
+      Phive:
+        Placement:
+          ID:  !ul 9776423545184610778 
+      Rotate:
+      - 0.0
+      - -0.52
+      - 0.0
+      SRTHash:  !u 07859273 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -4.00000 
+      -  4.21399 
+      -  36.00000 
+    - Gyaml: Obj_Windsock
+      Hash:  !ul 2834674686811466716 
+      InstanceID: 32770263-2899-0710-9248-927508745690
+      Layer: Tmp
+      Name: Obj_Windsock
+      Phive:
+        Placement:
+          ID:  !ul 2834674686811466716 
+      Rotate:
+      - 0.0
+      - 1.54159
+      - 0.0
+      SRTHash:  !u 38659627 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -41.40000 
+      -  7.51209 
+      -  44.50000 
+    - Gyaml: Obj_Windsock
+      Hash:  !ul 4052807407278876833 
+      InstanceID: 75751182-6643-8390-2086-919842164973
+      Layer: Tmp
+      Name: Obj_Windsock
+      Phive:
+        Placement:
+          ID:  !ul 4052807407278876833 
+      Rotate:
+      - 0.0
+      - 1.7708
+      - 0.0
+      SRTHash:  !u 36182370 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  41.50000 
+      -  7.51228 
+      -  -44.50000 
+    - Gyaml: Brd_Sparrow00
+      Hash:  !ul 7953457963203393909 
+      InstanceID: 38156312-3602-9715-3294-366420366205
+      Layer: Day
+      Name: Brd_Sparrow00
+      Phive:
+        Placement:
+          ID:  !ul 7953457963203393909 
+      Rotate:
+      - 0.0
+      - 1.92159
+      - 0.0
+      SRTHash:  !u 06138454 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  4.00000 
+      -  4.06633 
+      -  -38.00000 
+    - Gyaml: Brd_Sparrow00
+      Hash:  !ul 3900873559889267423 
+      InstanceID: 92757620-2094-2971-2384-007820954564
+      Layer: Day
+      Name: Brd_Sparrow00
+      Phive:
+        Placement:
+          ID:  !ul 3900873559889267423 
+      Rotate:
+      - 0.0
+      - 2.94319
+      - 0.0
+      SRTHash:  !u 64792238 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  5.00000 
+      -  4.13041 
+      -  -36.00000 
+    - Gyaml: Brd_Sparrow00
+      Hash:  !ul 0046601846337801653 
+      InstanceID: 78424658-3626-4232-4331-039431441174
+      Layer: Day
+      Name: Brd_Sparrow00
+      Phive:
+        Placement:
+          ID:  !ul 0046601846337801653 
+      Rotate:
+      - 0.0
+      - 2.50799
+      - 0.0
+      SRTHash:  !u 93524139 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  5.90000 
+      -  12.00000 
+      -  -51.60000 
+    - Gyaml: Obj_Jerry00
+      Hash:  !ul 8168256120418347154 
+      InstanceID: 28122978-0423-4249-3152-010741628907
+      Layer: Tmp
+      Name: Obj_Jerry00
+      Phive:
+        Placement:
+          ID:  !ul 8168256120418347154 
+      Rotate:
+      - 0.0
+      - 2.78159
+      - 0.0
+      SRTHash:  !u 22910691 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  21.60000 
+      -  5.06641 
+      -  -63.50000 
+    - Gyaml: Obj_Jerry00
+      Hash:  !ul 9387764593337734401 
+      InstanceID: 15260609-1160-1613-2357-002887249945
+      Layer: Pnt
+      Name: Obj_Jerry00
+      Phive:
+        Placement:
+          ID:  !ul 9387764593337734401 
+      Rotate:
+      - 0.0
+      - -2.73841
+      - 0.0
+      SRTHash:  !u 58609460 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  23.20000 
+      -  5.05000 
+      -  -63.40000 
+    - Gyaml: Obj_Jerry00
+      Hash:  !ul 3841225727013011014 
+      InstanceID: 87631138-9142-0673-9974-266412317804
+      Layer: Pnt
+      Name: Obj_Jerry00
+      Phive:
+        Placement:
+          ID:  !ul 3841225727013011014 
+      Rotate:
+      - 0.0
+      - 0.40318
+      - 0.0
+      SRTHash:  !u 80416158 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -22.90000 
+      -  5.05000 
+      -  63.30000 
+    - Gyaml: Obj_Jerry00
+      Hash:  !ul 6539776999699883569 
+      InstanceID: 75586241-2852-4148-2923-403380802401
+      Layer: Tmp
+      Name: Obj_Jerry00
+      Phive:
+        Placement:
+          ID:  !ul 6539776999699883569 
+      Rotate:
+      - 0.0
+      - -0.36
+      - 0.0
+      SRTHash:  !u 03110357 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -21.30000 
+      -  5.06641 
+      -  63.40000 
+    - Gyaml: Obj_Tree00
+      Hash:  !ul 4316186189626265835 
+      InstanceID: 57293629-4686-4934-7736-844662602944
+      Layer: Cmn
+      Name: Obj_Tree00
+      Phive:
+        Placement:
+          ID:  !ul 4316186189626265835 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 91574796 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -11.60000 
+      -  0.10000 
+      -  -14.00000 
+    - Gyaml: Obj_Tree00
+      Hash:  !ul 0243280395081313232 
+      InstanceID: 01085653-7787-3523-8763-496057815972
+      Layer: Cmn
+      Name: Obj_Tree00
+      Phive:
+        Placement:
+          ID:  !ul 0243280395081313232 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 96224055 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -1.30000 
+      -  7.98387 
+      -  -60.90000 
+    - Gyaml: Obj_Jerry00
+      Hash:  !ul 6794064751905191164 
+      InstanceID: 09067574-1729-1370-4899-375531884101
+      Layer: Pnt
+      Name: Obj_Jerry00
+      Phive:
+        Placement:
+          ID:  !ul 6794064751905191164 
+      Rotate:
+      - 0.0
+      - 0.40318
+      - 0.0
+      SRTHash:  !u 10346944 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -3.20000 
+      -  5.03750 
+      -  63.40000 
+    - Gyaml: Obj_BridgeJyoheki00
+      Hash:  !ul 6250616479259750368 
+      InstanceID: 73702065-5569-5479-3354-656180838134
+      Layer: Cmn
+      Name: Obj_BridgeJyoheki00
+      Phive:
+        Placement:
+          ID:  !ul 6250616479259750368 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 49988274 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  0.00000 
+      -  0.00000 
+      -  0.00000 
+    - Gyaml: Obj_BridgeJyoheki01
+      Hash:  !ul 8022415229293692404 
+      InstanceID: 08998614-3271-5783-6174-001739245678
+      Layer: Cmn
+      Name: Obj_BridgeJyoheki01
+      Phive:
+        Placement:
+          ID:  !ul 8022415229293692404 
+      Rotate:
+      - 0.0
+      - 3.14159
+      - 0.0
+      SRTHash:  !u 62331978 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  0.00000 
+      -  0.00000 
+      -  0.00000 
+    - Gyaml: Obj_Jerry00
+      Hash:  !ul 1409617715742276966 
+      InstanceID: 04367772-3779-3779-6669-630045078953
+      Layer: Tmp
+      Name: Obj_Jerry00
+      Phive:
+        Placement:
+          ID:  !ul 1409617715742276966 
+      Rotate:
+      - 0.0
+      - 0.40318
+      - 0.0
+      SRTHash:  !u 68988728 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -33.80000 
+      -  2.43750 
+      -  45.30000 
+    - Gyaml: Obj_Jerry00
+      Hash:  !ul 4252529760467775614 
+      InstanceID: 14407683-0914-4939-0054-687152177988
+      Layer: Pnt
+      Name: Obj_Jerry00
+      Phive:
+        Placement:
+          ID:  !ul 4252529760467775614 
+      Rotate:
+      - 0.0
+      - -2.73841
+      - 0.0
+      SRTHash:  !u 16609813 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  3.10000 
+      -  5.03750 
+      -  -63.60000 
+    - Gyaml: Obj_GeneralBox_211
+      Hash:  !ul 2397882017226579217 
+      InstanceID: 85304038-1963-0819-0583-860335121838
+      Layer: Pnt
+      Name: Obj_GeneralBox_211
+      Phive:
+        Placement:
+          ID:  !ul 2397882017226579217 
+      Rotate:
+      - 0.0
+      - 1.5708
+      - 0.0
+      SRTHash:  !u 59013691 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -8.99040 
+      -  4.00000 
+      -  33.27078 
+    - Gyaml: Obj_VictoryLift
+      Hash:  !ul 5516719205223940624 
+      InstanceID: 81736188-6346-3813-2496-903896580566
+      Layer: Vlf
+      Name: Obj_VictoryLift
+      Phive:
+        Placement:
+          ID:  !ul 5516719205223940624 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 85638374 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  12.47338 
+      -  11.98813 
+      -  3.15725 
+    - Gyaml: Obj_GeneralBox_212
+      Hash:  !ul 9908345062867484107 
+      InstanceID: 45634883-3506-1680-2604-244329246138
+      Layer: Vlf
+      Name: Obj_GeneralBox_212
+      Phive:
+        Placement:
+          ID:  !ul 9908345062867484107 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 08557750 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  30.50000 
+      -  13.50000 
+      -  -0.75000 
+    - Gyaml: Obj_GeneralBox_211
+      Hash:  !ul 6023138759019638120 
+      InstanceID: 27644833-7721-0196-8403-562576922766
+      Layer: Pnt
+      Name: Obj_GeneralBox_211
+      Phive:
+        Placement:
+          ID:  !ul 6023138759019638120 
+      Rotate:
+      - 0.0
+      - -1.5708
+      - 0.0
+      SRTHash:  !u 80740604 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  8.99042 
+      -  4.00000 
+      -  -33.27079 
+    - Gyaml: PaintTargetArea
+      Hash:  !ul 3139098740178153353 
+      InstanceID: 78689951-7140-8148-1765-790593663819
+      Layer: Var
+      Name: PaintTargetArea
+      Phive:
+        Placement:
+          ID:  !ul 3139098740178153353 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 41915173 
+      Scale:
+        X: 1.17268
+        Y: 0.39501
+        Z: 1.18221
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -15.79964 
+      -  12.10000 
+      -  0.00435 
+    - Gyaml: GachihokoRouteArea
+      Hash:  !ul 0136904147050516478 
+      InstanceID: 64918577-6387-0840-5186-585641074986
+      Layer: Vgl
+      Name: GachihokoRouteArea
+      Phive:
+        Placement:
+          ID:  !ul 0136904147050516478 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 50890559 
+      Scale:
+        X: 8.76166
+        Y: 2.17016
+        Z: 4.64608
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  0.00000 
+      -  9.72549 
+      -  0.14842 
+    - Gyaml: GachihokoRouteArea
+      Hash:  !ul 8933822247215608323 
+      InstanceID: 67660340-9960-6938-9932-289024534399
+      Layer: Vgl
+      Name: GachihokoRouteArea
+      Phive:
+        Placement:
+          ID:  !ul 8933822247215608323 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 65289755 
+      Scale:
+        X: 2.87635
+        Y: 1.0
+        Z: 0.73321
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  28.90551 
+      -  -0.00000 
+      -  -27.27929 
+    - Gyaml: GachihokoRouteArea
+      Hash:  !ul 2217407581885381187 
+      InstanceID: 02135842-2197-5917-3786-985117808931
+      Layer: Vgl
+      Name: GachihokoRouteArea
+      Phive:
+        Placement:
+          ID:  !ul 2217407581885381187 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 24960263 
+      Scale:
+        X: 0.5991
+        Y: 1.0
+        Z: 1.92542
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  40.49550 
+      -  6.16478 
+      -  -36.12188 
+    - Gyaml: Obj_GeneralBox_241
+      Hash:  !ul 8197114167049224154 
+      InstanceID: 93263749-6860-9399-4735-680505305582
+      Layer: Vgl
+      Name: Obj_GeneralBox_241
+      Phive:
+        Placement:
+          ID:  !ul 8197114167049224154 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 03435118 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  40.75000 
+      -  -0.95000 
+      -  -26.25000 
+    - Gyaml: GachihokoRouteArea
+      Hash:  !ul 3980586081916671936 
+      InstanceID: 50153915-5398-2380-0425-043429933902
+      Layer: Vgl
+      Name: GachihokoRouteArea
+      Phive:
+        Placement:
+          ID:  !ul 3980586081916671936 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 21407016 
+      Scale:
+        X: 0.97032
+        Y: 1.0
+        Z: 0.80187
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  32.64440 
+      -  0.00000 
+      -  -34.98044 
+    - Gyaml: GachihokoTargetPoint
+      Hash:  !ul 9842291881020160359 
+      InstanceID: 66565643-1474-5917-6673-218138080140
+      Layer: Vgl
+      Name: GachihokoTargetPoint
+      Phive:
+        Placement:
+          ID:  !ul 9842291881020160359 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 61356495 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  39.48300 
+      -  5.00000 
+      -  -29.41980 
+    - Gyaml: GachihokoTargetPoint
+      Hash:  !ul 6738632838674787438 
+      InstanceID: 51842330-2610-9727-1191-222268558492
+      Layer: Vgl
+      Name: GachihokoTargetPoint
+      Phive:
+        Placement:
+          ID:  !ul 6738632838674787438 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 63767355 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  35.57434 
+      -  0.00000 
+      -  -28.13456 
+    - Gyaml: GachihokoTargetPoint
+      Hash:  !ul 1723839462070662334 
+      InstanceID: 08817031-2280-1702-5883-968142870437
+      Layer: Vgl
+      Name: GachihokoTargetPoint
+      Phive:
+        Placement:
+          ID:  !ul 1723839462070662334 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 36503165 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  30.75539 
+      -  1.63850 
+      -  -21.12742 
+    - Gyaml: GachihokoTargetPoint
+      Hash:  !ul 9622683514990704217 
+      InstanceID: 79393788-2453-8412-0178-392784769779
+      Layer: Vgl
+      Name: GachihokoTargetPoint
+      Phive:
+        Placement:
+          ID:  !ul 9622683514990704217 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 80667944 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  30.64475 
+      -  0.00000 
+      -  -24.85624 
+    - Gyaml: GachihokoTargetPoint
+      Hash:  !ul 1099664429558517293 
+      InstanceID: 84645130-0390-9711-5135-239518969716
+      Layer: Vgl
+      Name: GachihokoTargetPoint
+      Phive:
+        Placement:
+          ID:  !ul 1099664429558517293 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 13198249 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  29.60934 
+      -  0.00000 
+      -  -29.78162 
+    - Gyaml: GachihokoTargetPoint
+      Hash:  !ul 7466460946537973787 
+      InstanceID: 35176705-3228-5944-1648-245010962507
+      Layer: Vgl
+      Name: GachihokoTargetPoint
+      Phive:
+        Placement:
+          ID:  !ul 7466460946537973787 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 76383190 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  30.90967 
+      -  0.00000 
+      -  -32.48292 
+    - Gyaml: GachihokoTargetPoint
+      Hash:  !ul 5096720388498750268 
+      InstanceID: 49579655-1832-2864-6980-563826454139
+      Layer: Vgl
+      Name: GachihokoTargetPoint
+      Phive:
+        Placement:
+          ID:  !ul 5096720388498750268 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 30158501 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  29.12351 
+      -  0.00000 
+      -  -35.54692 
+    - Gyaml: GachihokoRouteArea
+      Hash:  !ul 6538480782799336883 
+      InstanceID: 33915449-5405-2604-1214-201302113960
+      Layer: Vgl
+      Name: GachihokoRouteArea
+      Phive:
+        Placement:
+          ID:  !ul 6538480782799336883 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 46718707 
+      Scale:
+        X: 2.76579
+        Y: 0.93622
+        Z: 1.98312
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  13.82295 
+      -  3.04372 
+      -  -40.83619 
+    - Gyaml: GachihokoTargetPoint
+      Hash:  !ul 8194414472082026200 
+      InstanceID: 01862560-9568-2289-9301-389763199972
+      Layer: Vgl
+      Name: GachihokoTargetPoint
+      Phive:
+        Placement:
+          ID:  !ul 8194414472082026200 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 12127320 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  26.30863 
+      -  0.96650 
+      -  -35.45392 
+    - Gyaml: GachihokoTargetPoint
+      Hash:  !ul 2895410789451808199 
+      InstanceID: 70997440-1091-2066-6149-645963770736
+      Layer: Vgl
+      Name: GachihokoTargetPoint
+      Phive:
+        Placement:
+          ID:  !ul 2895410789451808199 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 19157085 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  19.12048 
+      -  0.00000 
+      -  -21.39221 
+    - Gyaml: GachihokoTargetPoint
+      Hash:  !ul 0381936293725799117 
+      InstanceID: 89947422-9634-7299-6913-928186717112
+      Layer: Vgl
+      Name: GachihokoTargetPoint
+      Phive:
+        Placement:
+          ID:  !ul 0381936293725799117 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 10534470 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  19.69698 
+      -  0.00000 
+      -  -24.87170 
+    - Gyaml: Obj_GeneralBox_221
+      Hash:  !ul 6303324978208661476 
+      InstanceID: 93056644-1711-7032-5702-988122225919
+      Layer: Vgl
+      Name: Obj_GeneralBox_221
+      Phive:
+        Placement:
+          ID:  !ul 6303324978208661476 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 81614408 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  16.20000 
+      -  4.00000 
+      -  -50.25000 
+    - Gyaml: Obj_VictoryPoint
+      Hash:  !ul 1182597845291382703 
+      InstanceID: 27772257-3806-6107-5233-780348142582
+      Layer: Vgl
+      Name: Obj_VictoryPoint
+      Phive:
+        Placement:
+          ID:  !ul 1182597845291382703 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 59405736 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  11.50000 
+      -  4.00000 
+      -  -42.50000 
+    - Gyaml: Obj_GeneralBox_231
+      Hash:  !ul 6786402616253760766 
+      InstanceID: 53319151-1921-4618-2109-534835610482
+      Layer: Vgl
+      Name: Obj_GeneralBox_231
+      Phive:
+        Placement:
+          ID:  !ul 6786402616253760766 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 31949535 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  1.75000 
+      -  4.00000 
+      -  -50.25000 
+    - Gyaml: Obj_VictoryPoint
+      Hash:  !ul 8997117831617382856 
+      InstanceID: 12394428-2241-7535-9112-115762060389
+      Layer: Vgl
+      Name: Obj_VictoryPoint
+      Phive:
+        Placement:
+          ID:  !ul 8997117831617382856 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 84742292 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -11.50000 
+      -  4.00000 
+      -  42.50000 
+    - Gyaml: GachihokoRouteArea
+      Hash:  !ul 2780671582729354649 
+      InstanceID: 95488194-1623-4353-1256-483080202486
+      Layer: Vgl
+      Name: GachihokoRouteArea
+      Phive:
+        Placement:
+          ID:  !ul 2780671582729354649 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 34783557 
+      Scale:
+        X: 2.87635
+        Y: 1.0
+        Z: 0.73321
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -28.90549 
+      -  -0.00000 
+      -  27.27928 
+    - Gyaml: ScrambleBombFlower
+      Hash:  !ul 3669656539332464701 
+      InstanceID: 69231074-4812-2623-6950-374159973636
+      Layer: Vgl
+      Name: ScrambleBombFlower
+      Phive:
+        Placement:
+          ID:  !ul 3669656539332464701 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 41416871 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  0.00000 
+      -  14.91268 
+      -  0.00000 
+    - Gyaml: GachihokoTargetPoint
+      Hash:  !ul 3373514598544013544 
+      InstanceID: 06413877-8947-0336-6566-698677019719
+      Layer: Vgl
+      Name: GachihokoTargetPoint
+      Phive:
+        Placement:
+          ID:  !ul 3373514598544013544 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 14910919 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -19.12046 
+      -  0.00000 
+      -  21.39220 
+    - Gyaml: GachihokoTargetPoint
+      Hash:  !ul 1321104375092655784 
+      InstanceID: 38144386-6765-2442-5982-571191011707
+      Layer: Vgl
+      Name: GachihokoTargetPoint
+      Phive:
+        Placement:
+          ID:  !ul 1321104375092655784 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 58719095 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -19.69696 
+      -  0.00000 
+      -  24.87169 
+    - Gyaml: GachihokoTargetPoint
+      Hash:  !ul 4246444254664129683 
+      InstanceID: 25309920-0630-2683-7565-213672479629
+      Layer: Vgl
+      Name: GachihokoTargetPoint
+      Phive:
+        Placement:
+          ID:  !ul 4246444254664129683 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 10295153 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -26.30860 
+      -  0.96650 
+      -  35.45392 
+    - Gyaml: GachihokoTargetPoint
+      Hash:  !ul 5588107535793792627 
+      InstanceID: 31057494-8023-0770-4675-023210073667
+      Layer: Vgl
+      Name: GachihokoTargetPoint
+      Phive:
+        Placement:
+          ID:  !ul 5588107535793792627 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 06685636 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -29.12348 
+      -  0.00000 
+      -  35.54692 
+    - Gyaml: GachihokoTargetPoint
+      Hash:  !ul 1765936049405271130 
+      InstanceID: 94563308-1884-7885-3398-920624093763
+      Layer: Vgl
+      Name: GachihokoTargetPoint
+      Phive:
+        Placement:
+          ID:  !ul 1765936049405271130 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 57837664 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -29.60931 
+      -  0.00000 
+      -  29.78162 
+    - Gyaml: GachihokoTargetPoint
+      Hash:  !ul 2665044426439914722 
+      InstanceID: 99323736-6732-5996-9287-819128075976
+      Layer: Vgl
+      Name: GachihokoTargetPoint
+      Phive:
+        Placement:
+          ID:  !ul 2665044426439914722 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 09914412 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -30.64473 
+      -  0.00000 
+      -  24.85623 
+    - Gyaml: GachihokoTargetPoint
+      Hash:  !ul 9886601024646343451 
+      InstanceID: 96374060-1379-6223-7260-182591985547
+      Layer: Vgl
+      Name: GachihokoTargetPoint
+      Phive:
+        Placement:
+          ID:  !ul 9886601024646343451 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 00907186 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -30.75536 
+      -  1.63850 
+      -  21.12742 
+    - Gyaml: GachihokoTargetPoint
+      Hash:  !ul 0282478381521693341 
+      InstanceID: 94892790-3626-7912-5628-033101963498
+      Layer: Vgl
+      Name: GachihokoTargetPoint
+      Phive:
+        Placement:
+          ID:  !ul 0282478381521693341 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 77351083 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -35.57431 
+      -  0.00000 
+      -  28.13456 
+    - Gyaml: GachihokoRouteArea
+      Hash:  !ul 6318073636843446885 
+      InstanceID: 81402304-8171-8836-5088-076821333409
+      Layer: Vgl
+      Name: GachihokoRouteArea
+      Phive:
+        Placement:
+          ID:  !ul 6318073636843446885 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 03081646 
+      Scale:
+        X: 0.5991
+        Y: 0.70216
+        Z: 1.88745
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -40.49547 
+      -  7.65400 
+      -  36.56384 
+    - Gyaml: GachihokoTargetPoint
+      Hash:  !ul 0394300133241897044 
+      InstanceID: 83199907-0886-8926-0585-626243574838
+      Layer: Vgl
+      Name: GachihokoTargetPoint
+      Phive:
+        Placement:
+          ID:  !ul 0394300133241897044 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 83503171 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -39.48301 
+      -  5.00000 
+      -  29.41978 
+    - Gyaml: GachihokoRouteArea
+      Hash:  !ul 7355618193349047644 
+      InstanceID: 55340452-7479-1181-7720-716229575204
+      Layer: Vgl
+      Name: GachihokoRouteArea
+      Phive:
+        Placement:
+          ID:  !ul 7355618193349047644 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 79770267 
+      Scale:
+        X: 2.76579
+        Y: 0.92621
+        Z: 1.98401
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -13.82292 
+      -  2.99365 
+      -  40.84072 
+    - Gyaml: GachihokoTargetPoint
+      Hash:  !ul 8290330122660752830 
+      InstanceID: 47419313-6352-8068-0555-059374200755
+      Layer: Vgl
+      Name: GachihokoTargetPoint
+      Phive:
+        Placement:
+          ID:  !ul 8290330122660752830 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 29122933 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -30.90965 
+      -  0.00000 
+      -  32.48292 
+    - Gyaml: GachihokoRouteArea
+      Hash:  !ul 0518475799846878731 
+      InstanceID: 28316785-1656-5681-9529-826674500493
+      Layer: Vgl
+      Name: GachihokoRouteArea
+      Phive:
+        Placement:
+          ID:  !ul 0518475799846878731 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 15866774 
+      Scale:
+        X: 0.97032
+        Y: 1.0
+        Z: 0.80187
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -32.64437 
+      -  0.00000 
+      -  34.98044 
+    - Gyaml: Obj_Windsock
+      Hash:  !ul 2368850411526224394 
+      InstanceID: 64657876-9357-4138-9364-513180396031
+      Layer: Tmp
+      Name: Obj_Windsock
+      Phive:
+        Placement:
+          ID:  !ul 2368850411526224394 
+      Rotate:
+      - 0.0
+      - 1.54159
+      - 0.0
+      SRTHash:  !u 71934297 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -37.80000 
+      -  18.57572 
+      -  -5.40000 
+    - Gyaml: Obj_Windsock
+      Hash:  !ul 7760221352312080471 
+      InstanceID: 80840106-9511-1944-2109-130606980607
+      Layer: Tmp
+      Name: Obj_Windsock
+      Phive:
+        Placement:
+          ID:  !ul 7760221352312080471 
+      Rotate:
+      - 0.0
+      - 1.5708
+      - 0.0
+      SRTHash:  !u 34362580 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  40.50000 
+      -  18.57572 
+      -  5.50000 
+    - Gyaml: Brd_Sparrow00
+      Hash:  !ul 8819055181696039437 
+      InstanceID: 14710435-7403-9319-2791-296790427644
+      Layer: Day
+      Name: Brd_Sparrow00
+      Phive:
+        Placement:
+          ID:  !ul 8819055181696039437 
+      Rotate:
+      - 0.0
+      - 2.0856
+      - 0.0
+      SRTHash:  !u 57385073 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  4.60000 
+      -  12.00000 
+      -  -51.70000 
+    - Gyaml: Brd_Sparrow00
+      Hash:  !ul 9902405956232036073 
+      InstanceID: 15711446-8870-6608-1420-873286446496
+      Layer: Day
+      Name: Brd_Sparrow00
+      Phive:
+        Placement:
+          ID:  !ul 9902405956232036073 
+      Rotate:
+      - 0.0
+      - -0.6336
+      - 0.0
+      SRTHash:  !u 91757344 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -5.89999 
+      -  12.00000 
+      -  51.60000 
+    - Gyaml: Brd_Sparrow00
+      Hash:  !ul 0254246272184677903 
+      InstanceID: 90477607-7979-5466-1349-477988459940
+      Layer: Day
+      Name: Brd_Sparrow00
+      Phive:
+        Placement:
+          ID:  !ul 0254246272184677903 
+      Rotate:
+      - 0.0
+      - -1.056
+      - 0.0
+      SRTHash:  !u 59123740 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -4.59999 
+      -  12.00000 
+      -  51.70000 
+    - Gyaml: Obj_SeesawJyoheki
+      Hash:  !ul 1300518044733000554 
+      InstanceID: 13804326-5437-9373-5028-667664618268
+      Layer: Tmp
+      Name: Obj_SeesawJyoheki
+      Phive:
+        Placement:
+          ID:  !ul 1300518044733000554 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 74873599 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -9.70000 
+      -  4.80000 
+      -  38.90000 
+    - Gyaml: Obj_SeesawJyoheki
+      Hash:  !ul 5320666543977533271 
+      InstanceID: 79642590-5789-5305-0479-557658541871
+      Layer: Tmp
+      Name: Obj_SeesawJyoheki
+      Phive:
+        Placement:
+          ID:  !ul 5320666543977533271 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 04455793 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -9.70000 
+      -  4.80000 
+      -  42.60000 
+    - Gyaml: Obj_WaterTankNoPaint
+      Hash:  !ul 1294691084731317654 
+      InstanceID: 62760927-6606-2112-1162-189733301177
+      Layer: Cmn
+      Name: Obj_WaterTankNoPaint
+      Phive:
+        Placement:
+          ID:  !ul 1294691084731317654 
+      Rotate:
+      - 0.0
+      - 3.14159
+      - 0.0
+      SRTHash:  !u 48775988 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -8.00000 
+      -  8.11791 
+      -  25.40000 
+    - Gyaml: Obj_WaterTankNoPaint
+      Hash:  !ul 5201521081341459585 
+      InstanceID: 52630095-7543-2982-0764-066802014595
+      Layer: Cmn
+      Name: Obj_WaterTankNoPaint
+      Phive:
+        Placement:
+          ID:  !ul 5201521081341459585 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 40414530 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  8.00000 
+      -  8.11791 
+      -  -25.40000 
+    - Gyaml: Obj_Jerry00
+      Hash:  !ul 1146689204578919146 
+      InstanceID: 23728784-6755-6114-7570-947758330811
+      Layer: Pnt
+      Name: Obj_Jerry00
+      Phive:
+        Placement:
+          ID:  !ul 1146689204578919146 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 52709144 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -1.10000 
+      -  0.09187 
+      -  12.80000 
+    - Gyaml: Obj_Jerry00
+      Hash:  !ul 7533555255611526083 
+      InstanceID: 02726079-9185-9235-5932-773992602012
+      Layer: Pnt
+      Name: Obj_Jerry00
+      Phive:
+        Placement:
+          ID:  !ul 7533555255611526083 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 86758850 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  0.50000 
+      -  0.09187 
+      -  12.90000 
+    - Gyaml: Obj_Jerry00
+      Hash:  !ul 3262316940982720629 
+      InstanceID: 85980186-3164-9409-7425-962728350947
+      Layer: Pnt
+      Name: Obj_Jerry00
+      Phive:
+        Placement:
+          ID:  !ul 3262316940982720629 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 03133376 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  1.10000 
+      -  0.09187 
+      -  -12.80000 
+    - Gyaml: Obj_Jerry00
+      Hash:  !ul 6936595967282172317 
+      InstanceID: 77218885-5501-7352-9387-765747592224
+      Layer: Pnt
+      Name: Obj_Jerry00
+      Phive:
+        Placement:
+          ID:  !ul 6936595967282172317 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 19947355 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -0.50000 
+      -  0.09187 
+      -  -12.90000 
+    - Gyaml: Obj_BridgeJyoheki00
+      Hash:  !ul 2140968393796437745 
+      InstanceID: 04033514-4133-4337-8861-420446663302
+      Layer: Cmn
+      Name: Obj_BridgeJyoheki00
+      Phive:
+        Placement:
+          ID:  !ul 2140968393796437745 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 49835503 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  17.00000 
+      -  0.00000 
+      -  67.40000 
+    - Gyaml: Obj_BridgeJyoheki01
+      Hash:  !ul 6326411641792501307 
+      InstanceID: 75790914-7018-3313-6698-011648955319
+      Layer: Cmn
+      Name: Obj_BridgeJyoheki01
+      Phive:
+        Placement:
+          ID:  !ul 6326411641792501307 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 58407207 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -17.00001 
+      -  0.00000 
+      -  -67.40000 
+    - Gyaml: Obj_GeneralBox_221
+      Hash:  !ul 9193761845687340408 
+      InstanceID: 50258283-7886-8826-1994-421942689240
+      Layer: Vgl
+      Name: Obj_GeneralBox_221
+      Phive:
+        Placement:
+          ID:  !ul 9193761845687340408 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 25928774 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -16.19997 
+      -  4.00000 
+      -  50.24999 
+    - Gyaml: Obj_GeneralBox_212
+      Hash:  !ul 4788560338105129684 
+      InstanceID: 87079039-8664-6995-1162-378407263155
+      Layer: Vlf
+      Name: Obj_GeneralBox_212
+      Phive:
+        Placement:
+          ID:  !ul 4788560338105129684 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 83647060 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -30.49998 
+      -  13.50000 
+      -  0.74999 
+    - Gyaml: Obj_GeneralBox_212
+      Hash:  !ul 3336687973550507766 
+      InstanceID: 45923716-5497-1315-8296-822394832986
+      Layer: Var
+      Name: Obj_GeneralBox_212
+      Phive:
+        Placement:
+          ID:  !ul 3336687973550507766 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 43031931 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  30.50000 
+      -  13.50000 
+      -  -0.75000 
+    - Gyaml: Obj_GeneralBox_212
+      Hash:  !ul 2033780382202752098 
+      InstanceID: 21716415-2676-9290-5176-062584501516
+      Layer: Var
+      Name: Obj_GeneralBox_212
+      Phive:
+        Placement:
+          ID:  !ul 2033780382202752098 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 46215484 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -30.49998 
+      -  13.50000 
+      -  0.74999 
+    - Gyaml: Obj_GeneralBox_212
+      Hash:  !ul 4896875385575527321 
+      InstanceID: 02936309-6285-0711-6101-688491252270
+      Layer: Pnt
+      Name: Obj_GeneralBox_212
+      Phive:
+        Placement:
+          ID:  !ul 4896875385575527321 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 80175082 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  30.50000 
+      -  13.50000 
+      -  -0.75000 
+    - Gyaml: Obj_GeneralBox_212
+      Hash:  !ul 9216775164414201737 
+      InstanceID: 67229878-1446-5506-5934-517159481124
+      Layer: Pnt
+      Name: Obj_GeneralBox_212
+      Phive:
+        Placement:
+          ID:  !ul 9216775164414201737 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 22875497 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -30.49998 
+      -  13.50000 
+      -  0.74999 
+    - Gyaml: Obj_SeesawJyoheki
+      Hash:  !ul 2940383427955980297 
+      InstanceID: 10678946-7714-2587-4723-570789295205
+      Layer: Tmp
+      Name: Obj_SeesawJyoheki
+      Phive:
+        Placement:
+          ID:  !ul 2940383427955980297 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 58278127 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  9.70000 
+      -  4.80000 
+      -  -42.60000 
+    - Gyaml: Obj_SeesawJyoheki
+      Hash:  !ul 9309225752461319835 
+      InstanceID: 47730735-8742-4342-9771-392741535357
+      Layer: Tmp
+      Name: Obj_SeesawJyoheki
+      Phive:
+        Placement:
+          ID:  !ul 9309225752461319835 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 83339419 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  9.70000 
+      -  4.80000 
+      -  -38.90000 
+    - Gyaml: Obj_Jerry00
+      Hash:  !ul 6405313076077160403 
+      InstanceID: 09979677-7139-0519-9062-278385271186
+      Layer: Pnt
+      Name: Obj_Jerry00
+      Phive:
+        Placement:
+          ID:  !ul 6405313076077160403 
+      Rotate:
+      - 0.0
+      - 0.92478
+      - 0.0
+      SRTHash:  !u 45259190 
+      Scale:
+        X: 2.00688
+        Y: 2.00688
+        Z: 2.00688
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -40.80000 
+      -  -8.91953 
+      -  -74.80000 
+    - Gyaml: Obj_Jerry00
+      Hash:  !ul 1605189394271301551 
+      InstanceID: 81642863-1492-8130-1855-848004156204
+      Layer: Pnt
+      Name: Obj_Jerry00
+      Phive:
+        Placement:
+          ID:  !ul 1605189394271301551 
+      Rotate:
+      - 0.0
+      - 1.46478
+      - 0.0
+      SRTHash:  !u 99477961 
+      Scale:
+        X: 2.00688
+        Y: 2.00688
+        Z: 2.00688
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -39.30000 
+      -  -9.00469 
+      -  -90.20000 
+    - Gyaml: Obj_DanchiWall
+      Hash:  !ul 7038156289934263739 
+      InstanceID: 80570958-1852-1173-8423-647283538722
+      Layer: Vlf
+      Name: Obj_DanchiWall
+      Phive:
+        Placement:
+          ID:  !ul 7038156289934263739 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 25984557 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  0.00000 
+      -  0.00000 
+      -  0.00000 
+    - Gyaml: GachihokoRouteArea
+      Hash:  !ul 9756708711404396115 
+      InstanceID: 60703169-7948-1952-1616-363208595983
+      Layer: Vgl
+      Name: GachihokoRouteArea
+      Phive:
+        Placement:
+          ID:  !ul 9756708711404396115 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 41391414 
+      Scale:
+        X: 1.98723
+        Y: 1.33033
+        Z: 2.65784
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -19.04360 
+      -  8.48377 
+      -  -38.82310 
+    - Gyaml: GachihokoRouteArea
+      Hash:  !ul 2813588999031671668 
+      InstanceID: 90871066-1539-8962-7472-574284043109
+      Layer: Vgl
+      Name: GachihokoRouteArea
+      Phive:
+        Placement:
+          ID:  !ul 2813588999031671668 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 92693895 
+      Scale:
+        X: 1.98723
+        Y: 1.33033
+        Z: 2.67489
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  19.04363 
+      -  8.48377 
+      -  38.73788 
+    - Gyaml: GachihokoHikikomoriArea
+      Hash:  !ul 7210128834188545222 
+      InstanceID: 51326949-1549-9809-6331-736777810671
+      Layer: Vgl
+      Name: GachihokoHikikomoriArea
+      Phive:
+        Placement:
+          ID:  !ul 7210128834188545222 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 19281196 
+      Scale:
+        X: 4.3477
+        Y: 1.53537
+        Z: 2.39374
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  6.60216 
+      -  10.67684 
+      -  -68.72039 
+    - Gyaml: GachihokoRouteArea
+      Hash:  !ul 6142592850395620752 
+      InstanceID: 07804703-6211-8427-5586-853535048602
+      Layer: Vgl
+      Name: GachihokoRouteArea
+      Phive:
+        Placement:
+          ID:  !ul 6142592850395620752 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 06751514 
+      Scale:
+        X: 2.23823
+        Y: 0.92085
+        Z: 0.14044
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -9.17347 
+      -  0.37734 
+      -  -23.83811 
+    - Gyaml: GachihokoRouteArea
+      Hash:  !ul 3331394076747156228 
+      InstanceID: 33230138-2501-6679-4464-081737805190
+      Layer: Vgl
+      Name: GachihokoRouteArea
+      Phive:
+        Placement:
+          ID:  !ul 3331394076747156228 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 53938847 
+      Scale:
+        X: 2.23823
+        Y: 0.92085
+        Z: 0.12828
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  9.17350 
+      -  0.37734 
+      -  23.89890 
+    - Gyaml: GachihokoTargetPoint
+      Hash:  !ul 3828120680494335660 
+      InstanceID: 90474804-1376-8031-0562-989230609139
+      Layer: Vgl
+      Name: GachihokoTargetPoint
+      Phive:
+        Placement:
+          ID:  !ul 3828120680494335660 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 63149508 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  25.08250 
+      -  3.01000 
+      -  19.09196 
+    - Gyaml: GachihokoTargetPoint
+      Hash:  !ul 4180295674607489760 
+      InstanceID: 79436026-4287-4463-9540-506036914468
+      Layer: Vgl
+      Name: GachihokoTargetPoint
+      Phive:
+        Placement:
+          ID:  !ul 4180295674607489760 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 84255044 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -25.08248 
+      -  3.01000 
+      -  -19.09196 
+    - Gyaml: PaintTargetArea
+      Hash:  !ul 5983248720251895236 
+      InstanceID: 51132134-3993-5382-4515-345765821029
+      Layer: Var
+      Name: PaintTargetArea
+      Phive:
+        Placement:
+          ID:  !ul 5983248720251895236 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 88800127 
+      Scale:
+        X: 1.17268
+        Y: 0.39501
+        Z: 1.18221
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  15.79966 
+      -  12.10000 
+      -  -0.00436 
+    - Gyaml: Obj_DanchiFence
+      Hash:  !ul 3657634784750106703 
+      InstanceID: 35459986-1486-3255-2838-518457248432
+      Layer: Vlf
+      Name: Obj_DanchiFence
+      Phive:
+        Placement:
+          ID:  !ul 3657634784750106703 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 27522950 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  0.00000 
+      -  0.00000 
+      -  0.00000 
+    - Gyaml: Obj_GeneralBox_231
+      Hash:  !ul 7282553017616890340 
+      InstanceID: 03502509-5221-3747-6405-004455769783
+      Layer: Vgl
+      Name: Obj_GeneralBox_231
+      Phive:
+        Placement:
+          ID:  !ul 7282553017616890340 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 07723364 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -1.74997 
+      -  4.00000 
+      -  50.24999 
+    - Gyaml: GachihokoHikikomoriArea
+      Hash:  !ul 3220504401876494430 
+      InstanceID: 42458298-8024-4554-1333-307679146569
+      Layer: Vgl
+      Name: GachihokoHikikomoriArea
+      Phive:
+        Placement:
+          ID:  !ul 3220504401876494430 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 87559616 
+      Scale:
+        X: 4.3477
+        Y: 1.53537
+        Z: 2.39374
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -6.60212 
+      -  10.67684 
+      -  68.72037 
+    - Gyaml: Obj_GeneralBox_241
+      Hash:  !ul 1018977910673961983 
+      InstanceID: 51323404-4554-1698-5832-432036056665
+      Layer: Vgl
+      Name: Obj_GeneralBox_241
+      Phive:
+        Placement:
+          ID:  !ul 1018977910673961983 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 10552449 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -40.74997 
+      -  -0.95000 
+      -  26.25000 
+    - Gyaml: Obj_GeneralBox_241
+      Hash:  !ul 8572119768094667511 
+      InstanceID: 09237067-6162-7157-5787-461455880087
+      Layer: Vlf
+      Name: Obj_GeneralBox_241
+      Phive:
+        Placement:
+          ID:  !ul 8572119768094667511 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 22157329 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -40.74997 
+      -  -0.95000 
+      -  26.25000 
+    - Gyaml: Obj_GeneralBox_241
+      Hash:  !ul 3537671594414234813 
+      InstanceID: 28914358-3132-3543-2878-600184136115
+      Layer: Vlf
+      Name: Obj_GeneralBox_241
+      Phive:
+        Placement:
+          ID:  !ul 3537671594414234813 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 57596192 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  40.75000 
+      -  -0.95000 
+      -  -26.25000 
+    - Gyaml: GachihokoReallocateInitPosArea
+      Hash:  !ul 8822752609328260832 
+      InstanceID: 08503737-7499-1537-7435-384846573412
+      Layer: Vgl
+      Name: GachihokoReallocateInitPosArea
+      Phive:
+        Placement:
+          ID:  !ul 8822752609328260832 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 12399748 
+      Scale:
+        X: 2.10608
+        Y: 0.17001
+        Z: 0.15373
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -32.21518 
+      -  18.82338 
+      -  -5.44524 
+    - Gyaml: GachihokoReallocateInitPosArea
+      Hash:  !ul 1389960953053942378 
+      InstanceID: 31539907-2673-0772-9997-795956322830
+      Layer: Vgl
+      Name: GachihokoReallocateInitPosArea
+      Phive:
+        Placement:
+          ID:  !ul 1389960953053942378 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 72038130 
+      Scale:
+        X: 2.10608
+        Y: 0.17001
+        Z: 0.15373
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  32.21521 
+      -  18.82338 
+      -  5.44523 
+    - Gyaml: Obj_CameraWallJyoheki00
+      Hash:  !ul 2260225332173543893 
+      InstanceID: 56122189-4437-8338-7906-077065428523
+      Layer: Cmn
+      Name: Obj_CameraWallJyoheki00
+      Phive:
+        Placement:
+          ID:  !ul 2260225332173543893 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 12368025 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  0.00000 
+      -  0.00000 
+      -  0.00000 
+    - Gyaml: Obj_DanchiStopper
+      Hash:  !ul 8189003045935514924 
+      InstanceID: 81770175-3406-6294-4245-189410677855
+      Layer: Cmn
+      Name: Obj_DanchiStopper
+      Phive:
+        Placement:
+          ID:  !ul 8189003045935514924 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 70154553 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  0.00000 
+      -  0.00000 
+      -  0.00000 
+    - Gyaml: Obj_DanchiStopper
+      Hash:  !ul 6085781303314269501 
+      InstanceID: 92592245-6848-2259-1922-901850739999
+      Layer: Cmn
+      Name: Obj_DanchiStopper
+      Phive:
+        Placement:
+          ID:  !ul 6085781303314269501 
+      Rotate:
+      - 0.0
+      - 3.14159
+      - 0.0
+      SRTHash:  !u 28708503 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  0.00000 
+      -  0.00000 
+      -  0.00000 
+    - Gyaml: Obj_GeneralBoxNoPaint_232
+      Hash:  !ul 2037799383724814087 
+      InstanceID: 75763563-5368-6026-0602-998654525689
+      Layer: Vgl
+      Name: Obj_GeneralBoxNoPaint_232
+      Phive:
+        Placement:
+          ID:  !ul 2037799383724814087 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 1.5708
+      SRTHash:  !u 00266444 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  27.95000 
+      -  14.73547 
+      -  -12.70000 
+    - Gyaml: Obj_GeneralBoxNoPaint_232
+      Hash:  !ul 3053779336877234588 
+      InstanceID: 00941489-6993-7330-3499-333261074184
+      Layer: Vgl
+      Name: Obj_GeneralBoxNoPaint_232
+      Phive:
+        Placement:
+          ID:  !ul 3053779336877234588 
+      Rotate:
+      - -3.14159
+      - 0.0
+      - 1.5708
+      SRTHash:  !u 98587928 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -27.95000 
+      -  14.73547 
+      -  12.70000 
+    - Gyaml: PatchArea
+      Hash:  !ul 2772547141511485557 
+      InstanceID: 90283163-4692-8373-6461-269128576597
+      Layer: Cmn
+      Name: PatchArea
+      Phive:
+        Placement:
+          ID:  !ul 2772547141511485557 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 48678236 
+      Scale:
+        X: 0.60988
+        Y: 0.19977
+        Z: 0.56189
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  21.58444 
+      -  18.03555 
+      -  12.84053 
+    - Gyaml: PatchArea
+      Hash:  !ul 7586362007071527919 
+      InstanceID: 93725033-2086-5578-5745-837000860601
+      Layer: Cmn
+      Name: PatchArea
+      Phive:
+        Placement:
+          ID:  !ul 7586362007071527919 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 71839706 
+      Scale:
+        X: 0.60988
+        Y: 0.19977
+        Z: 0.56189
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -21.58444 
+      -  18.03555 
+      -  -12.84053 
+    - Gyaml: Obj_GachiSignBoad
+      Hash:  !ul 1021224231838660422 
+      InstanceID: 32221792-7591-2068-3684-518663582706
+      Layer: Vgl
+      Name: Obj_GachiSignBoad
+      Phive:
+        Placement:
+          ID:  !ul 1021224231838660422 
+      Rotate:
+      - 0.07505
+      - 0.0
+      - 0.0
+      SRTHash:  !u 79102828 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  11.71274 
+      -  6.72298 
+      -  48.14390 
+    - Gyaml: GachihokoHikikomoriArea2
+      Hash:  !ul 0124207101181008664 
+      InstanceID: 19921891-6592-6002-0082-469853533202
+      Layer: Vgl
+      Name: GachihokoHikikomoriArea2
+      Phive:
+        Placement:
+          ID:  !ul 0124207101181008664 
+      Rotate:
+      - -3.05956
+      - -0.0
+      - 3.14159
+      SRTHash:  !u 70850956 
+      Scale:
+        X: 0.56703
+        Y: 0.7189
+        Z: 1.57668
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -11.70544 
+      -  10.93094 
+      -  -38.84556 
+    - Gyaml: Obj_GachiSignBoad
+      Hash:  !ul 7109070062010675617 
+      InstanceID: 89055887-5065-0653-1312-555981213519
+      Layer: Vgl
+      Name: Obj_GachiSignBoad
+      Phive:
+        Placement:
+          ID:  !ul 7109070062010675617 
+      Rotate:
+      - -3.06654
+      - -0.0
+      - 3.14159
+      SRTHash:  !u 48180714 
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -11.71272 
+      -  6.72298 
+      -  -48.14391 
+    - Gyaml: GachihokoHikikomoriArea2
+      Hash:  !ul 3425818519211954352 
+      InstanceID: 16760515-0133-2665-2875-993090748857
+      Layer: Vgl
+      Name: GachihokoHikikomoriArea2
+      Phive:
+        Placement:
+          ID:  !ul 3425818519211954352 
+      Rotate:
+      - 0.08203
+      - 0.0
+      - -0.0
+      SRTHash:  !u 05565793 
+      Scale:
+        X: 0.56703
+        Y: 0.7189
+        Z: 1.57668
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  11.70547 
+      -  10.93094 
+      -  38.84556 
+    - Gyaml: GachihokoHikikomoriArea2
+      Hash:  !ul 1229060153182389801 
+      InstanceID: 60661002-8488-5500-9621-648866720616
+      Layer: Vgl
+      Name: GachihokoHikikomoriArea2
+      Phive:
+        Placement:
+          ID:  !ul 1229060153182389801 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 35326395 
+      Scale:
+        X: 1.19044
+        Y: 0.65554
+        Z: 0.63403
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  14.81296 
+      -  11.03926 
+      -  27.83852 
+    - Gyaml: GachihokoHikikomoriArea2
+      Hash:  !ul 4773871242419813938 
+      InstanceID: 82155683-8318-5313-7001-449189726131
+      Layer: Vgl
+      Name: GachihokoHikikomoriArea2
+      Phive:
+        Placement:
+          ID:  !ul 4773871242419813938 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 83714021 
+      Scale:
+        X: 0.76647
+        Y: 0.58384
+        Z: 1.00817
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -24.64010 
+      -  10.68492 
+      -  -25.69389 
+    - Gyaml: GachihokoHikikomoriArea2
+      Hash:  !ul 7826748139784094747 
+      InstanceID: 75327010-3403-6522-7758-043198951760
+      Layer: Vgl
+      Name: GachihokoHikikomoriArea2
+      Phive:
+        Placement:
+          ID:  !ul 7826748139784094747 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 43312621 
+      Scale:
+        X: 1.19044
+        Y: 0.65554
+        Z: 0.63403
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -14.81294 
+      -  11.03926 
+      -  -27.83853 
+    - Gyaml: GachihokoHikikomoriArea2
+      Hash:  !ul 1957383620758075201 
+      InstanceID: 78343579-4270-6643-8382-236590284414
+      Layer: Vgl
+      Name: GachihokoHikikomoriArea2
+      Phive:
+        Placement:
+          ID:  !ul 1957383620758075201 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 51750778 
+      Scale:
+        X: 0.76647
+        Y: 0.58384
+        Z: 1.00817
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  24.64013 
+      -  10.68492 
+      -  25.69388 
+    - Gyaml: PatchArea
+      Hash:  !ul 5380975126890537858 
+      InstanceID: 59910627-1738-8872-3840-742783586751
+      Layer: Cmn
+      Name: PatchArea
+      Phive:
+        Placement:
+          ID:  !ul 5380975126890537858 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 08281124 
+      Scale:
+        X: 0.45241
+        Y: 1.21082
+        Z: 0.11338
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -14.97574 
+      -  5.91914 
+      -  12.39352 
+    - Gyaml: PatchArea
+      Hash:  !ul 1522870914539469601 
+      InstanceID: 83115460-0711-9493-2161-969728849506
+      Layer: Cmn
+      Name: PatchArea
+      Phive:
+        Placement:
+          ID:  !ul 1522870914539469601 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 69570275 
+      Scale:
+        X: 0.45241
+        Y: 1.21082
+        Z: 0.12137
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  14.97574 
+      -  5.91914 
+      -  -12.43345 
+    - Gyaml: PatchArea
+      Hash:  !ul 9530392465251831873 
+      InstanceID: 52038294-7170-6194-3544-405594472231
+      Layer: Cmn
+      Name: PatchArea
+      Phive:
+        Placement:
+          ID:  !ul 9530392465251831873 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 96103637 
+      Scale:
+        X: 0.54891
+        Y: 0.46183
+        Z: 0.07744
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  39.70311 
+      -  8.08212 
+      -  -8.40744 
+    - Gyaml: PatchArea
+      Hash:  !ul 5147485048675168237 
+      InstanceID: 29719457-2393-2888-5908-613305898224
+      Layer: Cmn
+      Name: PatchArea
+      Phive:
+        Placement:
+          ID:  !ul 5147485048675168237 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 47745467 
+      Scale:
+        X: 0.64583
+        Y: 0.46183
+        Z: 0.07744
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  -39.21852 
+      -  8.08212 
+      -  8.40744 
+    - Gyaml: PatchArea
+      Hash:  !ul 9006410116161684081 
+      InstanceID: 79374754-7330-9738-8758-662267767543
+      Layer: Cmn
+      Name: PatchArea
+      Phive:
+        Placement:
+          ID:  !ul 9006410116161684081 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 50988580 
+      Scale:
+        X: 0.09133
+        Y: 0.30114
+        Z: 1.20957
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  36.39080 
+      -  12.00103 
+      -  -7.09883 
+    - Gyaml: PatchArea
+      Hash:  !ul 7556622183886761171 
+      InstanceID: 26093355-1335-8293-6454-102067991261
+      Layer: Cmn
+      Name: PatchArea
+      Phive:
+        Placement:
+          ID:  !ul 7556622183886761171 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 50845947 
+      Scale:
+        X: 0.10176
+        Y: 0.40664
+        Z: 0.15683
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  36.33039 
+      -  15.49508 
+      -  -5.51125 
+    - Gyaml: PatchArea
+      Hash:  !ul 4246119264289329243 
+      InstanceID: 31480167-4359-3703-7265-776380736677
+      Layer: Cmn
+      Name: PatchArea
+      Phive:
+        Placement:
+          ID:  !ul 4246119264289329243 
+      Rotate:
+      - 0.0
+      - -3.14159
+      - 0.0
+      SRTHash:  !u 41349320 
+      Scale:
+        X: 0.098
+        Y: 0.46183
+        Z: 0.07744
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  36.47562 
+      -  8.08212 
+      -  -8.40744 
+    - Gyaml: PatchArea
+      Hash:  !ul 7854421743035414867 
+      InstanceID: 64227053-0460-6741-0776-487781010376
+      Layer: Cmn
+      Name: PatchArea
+      Phive:
+        Placement:
+          ID:  !ul 7854421743035414867 
+      Rotate:
+      - 0.0
+      - 0.0
+      - 0.0
+      SRTHash:  !u 57454266 
+      Scale:
+        X: 0.09133
+        Y: 0.72081
+        Z: 0.43912
+      TeamCmp:
+        Team: Neutral
+      Translate:
+      -  36.39080 
+      -  6.91515 
+      -  -10.95107 
